@@ -276,7 +276,7 @@ footer input[type=submit].btn {
 #macbook_carousel {
 	position:relative;
 	height:540px;
-	background:url(../img/mac.png) top center no-repeat;
+	/*background:url(../img/mac.png) top center no-repeat;*/
 	margin:30px 0 0px 0;
 }
 #macbook_carousel .carousel {
