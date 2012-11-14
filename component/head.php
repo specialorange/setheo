@@ -1,0 +1,1 @@
+<LINK REL="SHORTCUT ICON" HREF="favicon.ico" />
