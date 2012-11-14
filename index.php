@@ -36,6 +36,7 @@
 	<?php include ("component/navbar.php"); ?> 
 
 	<!-- CONTENT -->
+	<div class="container">
 		<?php include ("component/pages/home.php"); ?>
 		<?php include ("component/pages/divisions.php"); ?>
 		<?php include ("component/pages/news.php"); ?>
@@ -43,6 +44,7 @@
 		<?php include ("component/pages/locations.php"); ?>
 		<?php include ("component/pages/contact.php"); ?>
 		<?php include ("component/pages/about.php"); ?>
+	</div>
 
 	<!-- Footer -->
 	<?php include ("component/footer.php"); ?> 

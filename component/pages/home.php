@@ -1,5 +1,4 @@
-<div class="container" id="home">
-	<div class="row">
+	<div class="row hidden" id="home">
 		<div class="span12">
 			<!-- Content
 			================================================== -->
@@ -78,4 +77,3 @@
 			</div>
 		</div>
 	</div>
-</div>

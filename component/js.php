@@ -10,11 +10,12 @@
 	================================================== -->
 	<script type="text/javascript">	
 		$(document).ready(function(){
+				var location = document.location.href;
+				console.log(location);
 				var active = document.location.href.match(/[^\/]+$/)[0];
-console.log(active);
 				if (active === "") { 
-					active = "index.php";
-					$('a[href^="' + active + '"]').parent().addClass('active');
+					active = "#home";
+					$('a[href^="' + active + '"]').parent().removeClass('hidden');
 				} else {
 					$('a[href^="' + active + '"]').parent().addClass('active');					
 				}

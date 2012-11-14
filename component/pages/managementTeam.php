@@ -1,5 +1,4 @@
-<div class="container" id="managementTeam">
-	<div class="row">
+	<div class="row hidden" id="managementTeam">
 		<div class="span12">
 			<!-- Content
 			================================================== -->
@@ -68,4 +67,3 @@
 			</div>
 		</div>
 	</div>
-</div>
