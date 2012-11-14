@@ -1,11 +1,11 @@
-<div class="row hidden" id="contact">
+<div class="row page" id="contact-page">
 	<div class="span12">
 		<!-- Content
 		================================================== -->
 		<div id="content" class="container">
 		</div>
 
-		<iframe width="100%" height="420" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=67.587586,135.263672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+		<!-- <iframe width="100%" height="420" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=67.587586,135.263672&amp;t=m&amp;z=4&amp;output=embed"></iframe> -->
 
 		<div class="container hero-unit">
 			<div class="row">

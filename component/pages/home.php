@@ -1,4 +1,4 @@
-	<div class="row hidden" id="home">
+	<div class="row page" id="home-page">
 		<div class="span12">
 			<!-- Content
 			================================================== -->

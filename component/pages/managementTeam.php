@@ -1,4 +1,4 @@
-	<div class="row hidden" id="managementTeam">
+	<div class="row page" id="managementTeam-page">
 		<div class="span12">
 			<!-- Content
 			================================================== -->

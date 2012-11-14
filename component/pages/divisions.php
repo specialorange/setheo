@@ -1,4 +1,4 @@
-<div class="row hidden" id="divisons">
+<div class="row page" id="divisions-page">
 	<div class="span12">
 		<!-- Content
 		================================================== -->

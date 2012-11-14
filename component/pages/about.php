@@ -1,4 +1,4 @@
-<div class="row hidden" id="about">
+<div class="row page" id="about-page">
 	<div class="span12">
 		<!-- Content
 		================================================== -->
@@ -14,11 +14,11 @@
 
 			<!-- portfolio filter -->		
 			<ul id="portfolio-filter" class="nav nav-tabs">
-				<li><a href="#" class="filter" data-filter=".web">Web</a></li>
-				<li><a href="#" class="filter" data-filter=".design">Design</a></li>
-				<li><a href="#" class="filter" data-filter=".corporate">Corporate identity</a></li>
-				<li><a href="#" class="filter" data-filter=".mobile">Mobile app</a></li>
-				<li class="active"><a href="#" class="filter" data-filter="*">All</a></li>
+				<li class="active"><a href="#all" class="filter" data-filter="*">All</a></li>
+				<li><a href="#Web" class="filter" data-filter=".web">Web</a></li>
+				<li><a href="#Design" class="filter" data-filter=".design">Design</a></li>
+				<li><a href="#Corporate" class="filter" data-filter=".corporate">Corporate</a></li>
+				<li><a href="#Mobile" class="filter" data-filter=".mobile">Mobile</a></li>
 			</ul>
 
 			<!-- portfolio items -->		

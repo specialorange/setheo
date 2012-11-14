@@ -37,13 +37,34 @@
 
 	<!-- CONTENT -->
 	<div class="container">
-		<?php include ("component/pages/home.php"); ?>
-		<?php include ("component/pages/divisions.php"); ?>
-		<?php include ("component/pages/news.php"); ?>
-		<?php include ("component/pages/managementTeam.php"); ?>
-		<?php include ("component/pages/locations.php"); ?>
-		<?php include ("component/pages/contact.php"); ?>
-		<?php include ("component/pages/about.php"); ?>
+		<?php if ($_GET["page"]=="divisions") {
+				include ("component/pages/divisions.php");
+			}
+			elseif ($_GET["page"]=="news") {
+				include ("component/pages/news.php");
+			}
+			elseif ($_GET["page"]=="managementTeam") {
+				include ("component/pages/managementTeam.php");
+			}
+			elseif ($_GET["page"]=="locations") {
+				include ("component/pages/locations.php");
+			}
+			elseif ($_GET["page"]=="contact") {
+				include ("component/pages/contact.php");
+			}
+			elseif ($_GET["page"]=="about") {
+				include ("component/pages/about.php");
+			} else {
+				include ("component/pages/home.php");
+				include ("component/pages/divisions.php");
+				include ("component/pages/news.php");
+				include ("component/pages/managementTeam.php");
+				include ("component/pages/locations.php");
+				include ("component/pages/contact.php");
+				include ("component/pages/about.php");
+			}
+		?>
+		
 	</div>
 
 	<!-- Footer -->
