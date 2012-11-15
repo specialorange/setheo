@@ -14,6 +14,11 @@
 			if (hash.length === 0) {
 				hash = "#home"
 			}
+			//if the has has slash and whatnot, throw that stuff out, we don't care about it here
+			var slashPosition = hash.indexOf("/");
+			if (slashPosition > 0) {
+				hash = hash.substr(0,slashPosition);
+			}
 			var triangle = hash;
 			hash += "-page";
 			$('.page').addClass('hidden');
@@ -39,6 +44,10 @@
 				//unhide new one
 				var hash = $(this).find('a').attr('href');
 				$(hash+"-page").removeClass('hidden');
+				//remove triangle from old page
+				$(".pages .active").removeClass('active');
+				//add trianlge to new page
+				$(this).addClass('active');
 			});
 
 		}); // must launch CHROME with this in terminal `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --allow-file-access-from-files`

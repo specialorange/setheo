@@ -90,41 +90,24 @@ jQuery(document).ready(function($) {
 			// container
 			var $container = $('#portfolio-items');
 
-			//basic hash trunk
-			var trunk = "#about";
-
-			//if there is a slash in the hash
-			var fullHash = window.location.hash;
-			var slashPosition = fullHash.indexOf("/");
-			var hashAfterSlash = "";
-			var trunkHash = fullHash;
-			if (slashPosition > 0) {
-				hashAfterSlash = fullHash.substr(slashPosition+1);
-				trunkHash = fullHash.substr(0,slashPosition);
-			}
-
-
-			function filter_projects(tag, pageHash)
+			function filter_projects(tag)
 			{
 			  // filter projects
 			  $container.isotope({ filter: tag });
-			  
 			  // clear active class
-			  $('#portfolio-filter li.active').removeClass('active');
-			  
+			  $('li.active').removeClass('active');
 			  // add active class to filter selector
 			  $('#portfolio-filter').find("[data-filter='" + tag + "']").parent().addClass('active');
-			  
 			  // update location hash
-				window.location.hash=pageHash+"/"+tag.replace('.','').replace("*","");
-			  // if (tag=='.all') {
-			  // 	window.location.hash=pageHash;
-			  // }
+			  if (tag!='*')
+				window.location.hash=tag.replace('.','');
+			  if (tag=='*')
+			  	window.location.hash='';
 			}
 
 			if ($container.length) { //if it's > 0 this will be true 
 
-				// convert data-tags to classes
+				// conver data-tags to classes
 				$('.project').each(function(){
 					$this = $(this);
 					var tags = $this.data('tags');
@@ -146,48 +129,14 @@ jQuery(document).ready(function($) {
 				// filter items
 				$('#portfolio-filter li a').click(function(){
 					var selector = $(this).attr('data-filter');
-					filter_projects(selector, trunk);
-					return false; //similar(?) to event.preventDefault?
+					filter_projects(selector);
+					return false;
 				});
 
-				// console.log(trunkHash);
-				// console.log(trunk);
-				// console.log(hashAfterSlash);
-
-
-				// filter tags if location.hash is available. e.g. http://example.com/work.html#design will filter projects within this category
-				// hash != trunk
-				var resultOfHashLogicFunTimes = "";
-
-				if (fullHash==trunk) { //this means we should show all and therefore do not need to fileter any out
-					// console.log('if');
-				} else {
-					console.log('else');3	
-					// window.location.hash=trunk;
-											
-					//is the currentHash valid?
-					
-					// 		check that it starts with #about
-					if (trunkHash==trunk) {
-						console.log('hash is trunk');
-						resultOfHashLogicFunTimes = hashAfterSlash;
-					//		check whether it has a '/'
-						//if so, is the part after the slash valid (you can get the data-filter attr off of your #p-filter li a)
-
-						var $isThereADataFilterByThatName = $("#portfolio-filter li a[data-filter='."+resultOfHashLogicFunTimes+"']");
-						console.log("#portfolio-filter li a[data-filter='."+resultOfHashLogicFunTimes+"']");
-
-						if ( $isThereADataFilterByThatName.length > 0) {
-							console.log('hash has trunk and / and after slash is in the li a');
-							//if so, pass that thing into this filter
-							filter_projects( '.' + resultOfHashLogicFunTimes, trunk);
-						}
-						// else replace the garbage hash with #about and pass "all" into filter
-						else {
-							window.location.hash = trunk;
-						}
-					}
-					// filter_projects( '.' + resultOfHashLogicFunTimes, trunk);
+				// filter tags if location.has is available. e.g. http://example.com/work.html#design will filter projects within this category
+				if (window.location.hash!='')
+				{
+					filter_projects( '.' + window.location.hash.replace('#','') );
 				}
 			}
 		})
