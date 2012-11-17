@@ -11,7 +11,7 @@
 							<span class="icon-bar"></span>
 						</a>
 					<div class="span3">
-						<a class="brand" href="index.php?page=home">
+						<a class="brand" href="">
 							<img src="./img/logo-blue-grey-circle.png" alt="Setheo Holdings" height="38px"> SETHEO HOLDINGS
 						</a>
 					</div>

@@ -5,9 +5,9 @@
 			<div id="content" class="container">
 				<div class="hero-unit faq">
 					<div class="ac">
-						<h1>FAQ</h1><br />
-						<p>Answers to frequently asked questions.</p>
-						<input type="text" value="" placeholder="Search ..." />
+						<h1>Setheo News</h1><br />
+						<p>Search our news with ease...</p>
+						<input type="text" value="" placeholder="Just click here and start typing. It updates automatically!" />
 						<a type="" class="search_button btn btn-success"><i class="icon-search icon-white"></i></a>
 					</div>
 				</div>
@@ -20,6 +20,10 @@
 						<li>
 							<h3>This is what it looks like with another peice of news</h3>
 							<p>Whatever news you want here.</p>
+						</li>
+						<li>
+							<h3>ASDF</h3>
+							<p>Try searching for "asdf" and see that this only appears!</p>
 						</li>
 					</ul>
 					

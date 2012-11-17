@@ -4,34 +4,34 @@
 				<div class="span2">
 					<h3>Quick links:</h3>
 					<ul>
-						<li><a href="divisions.php" title="">Divisions</a></li>
-						<li><a href="news.php" title="">News</a></li>
-						<li><a href="managementTeam.php" title="">Management Team</a></li>
+						<li><span class="linkReplace"><a href="index.php?page=divisions" title="">Divisions</a></span></li>
+						<li><span class="linkReplace"><a href="index.php?page=news" title="">News</a></span></li>
+						<li><span class="linkReplace"><a href="index.php?page=managementTeam" title="">Management Team</a></span></li>
 					</ul>
 				</div>
 				<div class="span2">
-					<ul></li><a href="index.php" title="">Home</a></li></ul>
+					<ul></li><a href="" title="">Home</a></li></ul>
 					<ul>
-						<li><a href="locations.php" title="">Locations</a></li>
-						<li><a href="contact.php" title="">Contact</a></li>
-						<li><a href="about.php" title="">About Us</a></li>
+						<li><span class="linkReplace"><a href="index.php?page=locations" title="">Locations</a></span></li>
+						<li><span class="linkReplace"><a href="index.php?page=contact" title="">Contact</a></span></li>
+						<li><span class="linkReplace"><a href="index.php?page=about" title="">About Us</a></span></li>
 					</ul>
 				</div>
-				<div class="span4 social-networks">
+				<div class="span4 offset4 social-networks">
 					<h3>Stay in touch</h3>
 					<p>Stay in touch on social networks :</p>
 					<a href="http://www.facebook.com/pages/Setheo-Holdings/125043510985839" title="Follow us on Facebook" class="icon-facebook"></a>
 					<a href="https://twitter.com/SetheoHoldings" title="Follow us on Twitter" class="icon-twitter"></a>
 					<a href="https://plus.google.com/u/3/115730941609673544378/posts" title="Follow us on Google Plus" class="icon-google-plus"></a>
 				</div>
-				<div class="span4">	
+<!-- 		<div class="span4">	
 					<h3>Newsletter</h3>
 					<p>Subscribe to our monthly newsletter and be the first to know about our news and special deals!</p>
 					<form>
 						<input type="text" placeholder="Enter your E-mail" />
 						<input type="submit" class="btn" value="Ok" />
 					</form>
-				</div>
+				</div>-->
 			</div> <!-- /row -->		
 		</div> <!-- /container -->
 

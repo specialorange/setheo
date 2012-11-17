@@ -6,7 +6,7 @@
 			<div class="hero-unit">
 				<div class="ac">
 					<h1>Explore features!</h1><br />
-					<p>You can choose the icons below and their titles. For example, the house icon says "Housing Division" </p>
+					<p>You can choose the icons below and their titles. There are many more <a href='http://twitter.github.com/bootstrap/base-css.html#icons' target='_blank'>here</a> or <a href='http://fortawesome.github.com/Font-Awesome/' target='_blank'>here</a>. For example, the house icon says "Housing Division"</p>
 				</div>
 			</div>
 
@@ -39,10 +39,10 @@
 					<div class="span8">
 						<h3>Electrical Engineering Division</h3>
 						<p>
-							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
+							Paragraph 1 about Electrical Engineering Division.
 						</p>
 						<p>
-							A program was a stack of layers. Each layer added functionality to previously composed layers and different compositions of layers produced different programs. Not surprisingly, there was a need for a compact language to express such designs. Elementary algebra fit the bill: each layer was function (program transformation) that added new code to an existing program to produce a new program, and a program's design was modeled by an expression, i.e., a composition of transformations (layers). The figure below illustrates the stacking of layers h, j, and i (where h is on the bottom and i is on the top).
+							Paragraph 2 about Electrical Engineering Division.
 						</p>
 					</div>
 					<div class="span4">
@@ -63,10 +63,10 @@
 					<div class="span9">
 						<h3>Mechanical Engineering Division</h3>
 						<p>
-							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
+							Paragraph 1 about Mechanical Engineering Division.
 						</p>
 						<p>
-							A program was a stack of layers. Each layer added functionality to previously composed layers and different compositions of layers produced different programs. Not surprisingly, there was a need for a compact language to express such designs. Elementary algebra fit the bill: each layer was function (program transformation) that added new code to an existing program to produce a new program, and a program's design was modeled by an expression, i.e., a composition of transformations (layers). The figure below illustrates the stacking of layers h, j, and i (where h is on the bottom and i is on the top).
+							Paragraph 2 about Mechanical Engineering Division.
 						</p>
 					</div>
 				</div>
@@ -77,10 +77,10 @@
 					<div class="span8">
 						<h3>Civil And Building Engineering Division</h3>
 						<p>
-							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
+							Paragraph 1 about Civil And Building Engineering Division.
 						</p>
 						<p>
-							A program was a stack of layers. Each layer added functionality to previously composed layers and different compositions of layers produced different programs. Not surprisingly, there was a need for a compact language to express such designs. Elementary algebra fit the bill: each layer was function (program transformation) that added new code to an existing program to produce a new program, and a program's design was modeled by an expression, i.e., a composition of transformations (layers). The figure below illustrates the stacking of layers h, j, and i (where h is on the bottom and i is on the top).
+							Paragraph 2 about Civil And Building Engineering Division.
 						</p>
 					</div>
 					<div class="span4">
@@ -99,10 +99,10 @@
 					<div class="span9">
 						<h3>Water Engineering Division</h3>
 						<p>
-							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
+							Paragraph 1 about Water Engineering Division.
 						</p>
 						<p>
-							A program was a stack of layers. Each layer added functionality to previously composed layers and different compositions of layers produced different programs. Not surprisingly, there was a need for a compact language to express such designs. Elementary algebra fit the bill: each layer was function (program transformation) that added new code to an existing program to produce a new program, and a program's design was modeled by an expression, i.e., a composition of transformations (layers). The figure below illustrates the stacking of layers h, j, and i (where h is on the bottom and i is on the top).
+							Paragraph 2 about Water Engineering Division.
 						</p>
 					</div>
 				</div>
@@ -112,10 +112,7 @@
 
 				<div class="well ac">
 					<h3>
-						Start right now!
-						<a href="plans.html" title="Try it for yourself.">
-							Sign up
-						</a>&rarr;
+						<span class="linkReplace"><a href="index.php?page=contact" title="Contact us now!">Contact us now!</a></span>
 					</h3>
 				</div>
 			</div>

@@ -28,6 +28,27 @@
 		};
 
 		$(document).ready(function(){
+			var hideOldUnhideNew = function($this) {
+				//hide current content section
+				$('.page').addClass('hidden');
+				//unhide new one
+				var hash = $this.find('a').attr('href');
+				$(hash+"-page").removeClass('hidden');
+				//remove triangle from old page
+				$(".pages .active").removeClass('active');
+				//add trianlge to new page
+				if ($this.hasClass('nav-li')){
+					$this.addClass('active');
+				} else {
+					var slashPosition = hash.indexOf("/");
+					if (slashPosition > 0) {
+						hash = hash.substr(0,slashPosition);
+					}
+					var triangle = hash;
+					$('a[href="'+triangle+'"]').parent().addClass("active");
+				}
+			};
+
 			//replace li hrefs to #*page* when JS is enabled
 				// href="index.php?page=home" || href="index.php?page=divisions"
 				$('.linkReplace a').each(function(){
@@ -39,16 +60,11 @@
 				});
 			page();
 			$('.nav-li').click(function(event){
-				//hide current content section
-				$('.page').addClass('hidden');
-				//unhide new one
-				var hash = $(this).find('a').attr('href');
-				$(hash+"-page").removeClass('hidden');
-				//remove triangle from old page
-				$(".pages .active").removeClass('active');
-				//add trianlge to new page
-				$(this).addClass('active');
+				hideOldUnhideNew($(this));
 			});
+			$('.linkReplace').click(function(event){
+				hideOldUnhideNew($(this));
+			})
 
 		}); // must launch CHROME with this in terminal `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --allow-file-access-from-files`
 

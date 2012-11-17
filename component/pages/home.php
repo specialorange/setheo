@@ -70,7 +70,7 @@
 					</div>
 					<div class="span4">
 						<h2><span class="grey">Meet</span> us</h2>
-						<p>This would be a personal message of how to start a business relationship.   The link will take tou to either "Contact" page (currently), the :Management Team" page, or "locations" page. </p>
+						<p>This would be a personal message of how to start a business relationship.   The link will take tou to either "Contact" page (currently), the "Management Team" page, or "locations" page. </p>
 						<p><a class="" href="contact.php">Read more &raquo;</a></p>
 					</div>
 				</div>
