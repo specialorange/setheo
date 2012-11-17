@@ -106,6 +106,7 @@ jQuery(document).ready(function($) {
 
 			function filter_projects(tag, pageHash)
 			{
+				console.log("we got to filter");
 			  // filter projects
 			  $container.isotope({ filter: tag });
 			  
@@ -150,21 +151,11 @@ jQuery(document).ready(function($) {
 					return false; //similar(?) to event.preventDefault?
 				});
 
-				// console.log(trunkHash);
-				// console.log(trunk);
-				// console.log(hashAfterSlash);
-
-
 				// filter tags if location.hash is available. e.g. http://example.com/work.html#design will filter projects within this category
 				// hash != trunk
 				var resultOfHashLogicFunTimes = "";
 
-				if (fullHash==trunk) { //this means we should show all and therefore do not need to fileter any out
-					// console.log('if');
-				} else {
-					console.log('else');3	
-					// window.location.hash=trunk;
-											
+				if (fullHash!=trunk) { //this means we should filter the url
 					//is the currentHash valid?
 					
 					// 		check that it starts with #about
@@ -187,7 +178,8 @@ jQuery(document).ready(function($) {
 							window.location.hash = trunk;
 						}
 					}
-					// filter_projects( '.' + resultOfHashLogicFunTimes, trunk);
+				} else {
+					//This means the url is like trunck, and we shouldn't filter
 				}
 			}
 		})

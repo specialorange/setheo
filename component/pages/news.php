@@ -14,8 +14,8 @@
 				<div class="faq">
 					<ul>
 						<li>
-							<h3>How do You keep my personal information safe?</h3>
-							<p>Cupcake ipsum dolor sit amet wafer gummi bears pudding applicake. </p>
+							<h3></h3>
+							<p>Setheo has opened a new location at [location info here].  You can find all of our locations <span class="linkReplace"><a class="nav-li" href="index.php?page=locations">here</a></span>.</p>
 						</li>
 						<li>
 							<h3>How do I change my password?</h3>

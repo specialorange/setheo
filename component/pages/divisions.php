@@ -6,7 +6,7 @@
 			<div class="hero-unit">
 				<div class="ac">
 					<h1>Explore features!</h1><br />
-					<p>This is a template for a simple features page.</p>
+					<p>You can choose the icons below and their titles. For example, the house icon says "Housing Division" </p>
 				</div>
 			</div>
 
@@ -24,7 +24,7 @@
 							<li rel="tooltip" data-title="Some title"><i class="icon-zoom-in"></i></li>
 							<li rel="tooltip" data-title="Some title"><i class="icon-signal"></i></li>
 							<li rel="tooltip" data-title="Some title"><i class="icon-cog"></i></li>
-							<li rel="tooltip" data-title="Some title"><i class="icon-home"></i></li>
+							<li rel="tooltip" data-title="Housing Division"><i class="icon-home"></i></li>
 							<li rel="tooltip" data-title="Some title"><i class="icon-time"></i></li>
 							<li rel="tooltip" data-title="Some title"><i class="icon-road"></i></li>
 							<li rel="tooltip" data-title="Some title"><i class="icon-inbox"></i></li>
@@ -37,7 +37,7 @@
 
 				<div class="row">
 					<div class="span8">
-						<h3>Feature Oriented Programming</h3>
+						<h3>Electrical Engineering Division</h3>
 						<p>
 							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
 						</p>
@@ -55,14 +55,13 @@
 				<hr />
 
 				<div class="row">
-
 					<div class="span3">
 						<p>
 							<img rel="tooltip" title="Some title" alt="" class="thumbnail" src="http://image.shutterstock.com/display_pic_with_logo/183487/183487,1306438770,2/stock-vector-social-network-background-with-media-icons-78037456.jpg" width="200" />
 						</p>
 					</div>      	
 					<div class="span9">
-						<h3>Feature Oriented Programming</h3>
+						<h3>Mechanical Engineering Division</h3>
 						<p>
 							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
 						</p>
@@ -70,14 +69,13 @@
 							A program was a stack of layers. Each layer added functionality to previously composed layers and different compositions of layers produced different programs. Not surprisingly, there was a need for a compact language to express such designs. Elementary algebra fit the bill: each layer was function (program transformation) that added new code to an existing program to produce a new program, and a program's design was modeled by an expression, i.e., a composition of transformations (layers). The figure below illustrates the stacking of layers h, j, and i (where h is on the bottom and i is on the top).
 						</p>
 					</div>
-
 				</div>
 
 				<hr />
 
 				<div class="row">
 					<div class="span8">
-						<h3>Feature Oriented Programming</h3>
+						<h3>Civil And Building Engineering Division</h3>
 						<p>
 							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
 						</p>
@@ -91,6 +89,24 @@
 						</p>
 					</div>
 				</div>
+
+				<div class="row">
+					<div class="span3">
+						<p>
+							<img rel="tooltip" title="Some title" alt="" class="thumbnail" src="http://image.shutterstock.com/display_pic_with_logo/183487/183487,1306438770,2/stock-vector-social-network-background-with-media-icons-78037456.jpg" width="200" />
+						</p>
+					</div>      	
+					<div class="span9">
+						<h3>Water Engineering Division</h3>
+						<p>
+							FOSD arose out of layer-based designs and levels of abstraction in network protocols and extensible database systems in the late-1980s [1]. 
+						</p>
+						<p>
+							A program was a stack of layers. Each layer added functionality to previously composed layers and different compositions of layers produced different programs. Not surprisingly, there was a need for a compact language to express such designs. Elementary algebra fit the bill: each layer was function (program transformation) that added new code to an existing program to produce a new program, and a program's design was modeled by an expression, i.e., a composition of transformations (layers). The figure below illustrates the stacking of layers h, j, and i (where h is on the bottom and i is on the top).
+						</p>
+					</div>
+				</div>
+
 
 				<hr />
 

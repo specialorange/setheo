@@ -14,7 +14,7 @@
 			if (hash.length === 0) {
 				hash = "#home"
 			}
-			//if the has has slash and whatnot, throw that stuff out, we don't care about it here
+			//if the hash has slash and whatnot, throw that stuff out, we don't care about it here
 			var slashPosition = hash.indexOf("/");
 			if (slashPosition > 0) {
 				hash = hash.substr(0,slashPosition);
@@ -30,7 +30,7 @@
 		$(document).ready(function(){
 			//replace li hrefs to #*page* when JS is enabled
 				// href="index.php?page=home" || href="index.php?page=divisions"
-				$('.nav-li a').each(function(){
+				$('.linkReplace a').each(function(){
 					var currentHREF = $(this).attr('href');
 					var pageName = currentHREF.substr(15);
 					//to href="#home" || href="#divisions"
