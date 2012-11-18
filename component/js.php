@@ -4,7 +4,7 @@
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
 	<script type="text/javascript" src="js/jquery.touchSwipe.js"></script>
-	<script type="text/javascript" src="js/functions.js"></script>
+	<script type="text/javascript" src="js/functions.min.js"></script>
 	
 	<!-- CUSTOM
 	================================================== -->
