@@ -180,6 +180,8 @@ jQuery(document).ready(function($) {
 					}
 				} else {
 					//This means the url is like trunck, and we shouldn't filter
+					//forcing a filter just because I can't find out why it is filtering
+					$('#portfolio-filter').find("[data-filter='*']").click();
 				}
 			}
 		})
