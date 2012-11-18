@@ -118,9 +118,6 @@ jQuery(document).ready(function($) {
 			  
 			  // update location hash
 				window.location.hash=pageHash+"/"+tag.replace('.','').replace("*","");
-			  // if (tag=='.all') {
-			  // 	window.location.hash=pageHash;
-			  // }
 			}
 
 			if ($container.length) { //if it's > 0 this will be true 
@@ -160,16 +157,13 @@ jQuery(document).ready(function($) {
 					
 					// 		check that it starts with #about
 					if (trunkHash==trunk) {
-						console.log('hash is trunk');
 						resultOfHashLogicFunTimes = hashAfterSlash;
 					//		check whether it has a '/'
 						//if so, is the part after the slash valid (you can get the data-filter attr off of your #p-filter li a)
 
 						var $isThereADataFilterByThatName = $("#portfolio-filter li a[data-filter='."+resultOfHashLogicFunTimes+"']");
-						console.log("#portfolio-filter li a[data-filter='."+resultOfHashLogicFunTimes+"']");
 
 						if ( $isThereADataFilterByThatName.length > 0) {
-							console.log('hash has trunk and / and after slash is in the li a');
 							//if so, pass that thing into this filter
 							filter_projects( '.' + resultOfHashLogicFunTimes, trunk);
 						}
@@ -181,7 +175,7 @@ jQuery(document).ready(function($) {
 				} else {
 					//This means the url is like trunck, and we shouldn't filter
 					//forcing a filter just because I can't find out why it is filtering
-					$('#portfolio-filter').find("[data-filter='*']").click();
+					// $('#portfolio-filter').find("[data-filter='*']").click();
 				}
 			}
 		})
