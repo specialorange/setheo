@@ -12,8 +12,7 @@
 						</a>
 					<div class="span3">
 						<a class="brand" href="">
-							<img src="./img/logo-blue-grey-circle.png" alt="Setheo Holdings" height="38px"> SETHEO HOLDINGS
-						</a>
+							<img src="./img/setheoLogo.png" alt="Setheo Holdings"></a>
 					</div>
 					<div class="span9 navbar pages"
 						<div class="nav-collapse fr">
