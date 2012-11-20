@@ -5,7 +5,7 @@
 			<div id="content" class="container">
 				<div class="hero-unit">
 					<div class="ac">
-						<h1>Meet our team or <a href="contact.html">visit us</a>.</h1>
+						<h1>Meet our team or <span class="replaceLink"><a href="index.php?page=contact">visit us</a></span>.</h1>
 					</div>
 				</div>
 

@@ -1,1 +1,2 @@
-<LINK REL="SHORTCUT ICON" HREF="favicon.ico" />
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="img/favicon.png">

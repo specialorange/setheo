@@ -1,5 +1,6 @@
 		<!-- Navigation
 		================================================== -->
+	<noscript><div class="noscriptWarning">Kiva requires JavaScript to be enabled</div></noscript>
 	<header id="header">
 		<div class="navbar" id="navbar"> 
 			<div class="navbar-inner">
