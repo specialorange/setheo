@@ -47,6 +47,10 @@
 					var triangle = hash;
 					$('a[href="'+triangle+'"]').parent().addClass("active");
 				}
+				// fixing the strange filter on the 'About' Page when accessed from another page
+				if($this.find('a[href]').attr('href')=="#about"){
+					$("a[data-filter='*']").click();
+				};
 			};
 
 			//replace li hrefs to #*page* when JS is enabled
@@ -59,15 +63,13 @@
 					$(this).attr('href', newHREF);
 				});
 			page();
-			$('.nav-li').click(function(event){
-				hideOldUnhideNew($(this));
-			});
+			// replace All links with the JS version if JS is enabled
 			$('.linkReplace').click(function(event){
 				hideOldUnhideNew($(this));
 			})
 
 		}); // must launch CHROME with this in terminal `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --allow-file-access-from-files`
 
-
+//Push/Pop State
 
 	</script>
