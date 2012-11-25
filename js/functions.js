@@ -106,7 +106,6 @@ jQuery(document).ready(function($) {
 
 			function filter_projects(tag, pageHash)
 			{
-				console.log("we got to filter");
 			  // filter projects
 			  $container.isotope({ filter: tag });
 			  
