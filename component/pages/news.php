@@ -18,7 +18,7 @@
 							<p>Setheo has opened a new location at [location info here].  You can find all of our locations <span class="linkReplace"><a class="nav-li" href="index.php?page=locations">here</a></span>.</p>
 						</li>
 						<li>
-							<h3>This is what it looks like with another peice of news</h3>
+							<h3>This is what it looks like with another peice of new</h3>
 							<p>Whatever news you want here.</p>
 						</li>
 						<li>

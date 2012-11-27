@@ -48,7 +48,7 @@
 					$('a[href="'+triangle+'"]').parent().addClass("active");
 				}
 				// fixing the strange filter on the 'About' Page when accessed from another page
-				if($this.find('a[href]').attr('href')=="#about"){
+				if($this.find('a[href]').attr('href')=="#projects"){
 					$("a[data-filter='*']").click();
 				};
 			};

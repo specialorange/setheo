@@ -47,7 +47,7 @@
 					</div>
 					<div class="span4">
 						<p>
-							<img rel="tooltip" title="Some title" alt="" class="thumbnail fr" src="http://image.shutterstock.com/display_pic_with_logo/562921/99568811/stock-photo-mouse-connections-99568811.jpg" width="240" />
+							<img rel="tooltip" title="Electrical Engineering" alt="" class="thumbnail fr" src="img/powerlines.png" width="240" />
 						</p>
 					</div>
 				</div>
@@ -57,16 +57,16 @@
 				<div class="row">
 					<div class="span3">
 						<p>
-							<img rel="tooltip" title="Some title" alt="" class="thumbnail" src="http://image.shutterstock.com/display_pic_with_logo/183487/183487,1306438770,2/stock-vector-social-network-background-with-media-icons-78037456.jpg" width="200" />
+							<img rel="tooltip" title="Some title" alt="" class="thumbnail" src="img/building.png" width="200" />
 						</p>
 					</div>      	
 					<div class="span9">
-						<h3>Mechanical Engineering Division</h3>
+						<h3>Civil Engineering Division</h3>
 						<p>
-							Paragraph 1 about Mechanical Engineering Division.
+							Paragraph 1 about Civil Engineering Division.
 						</p>
 						<p>
-							Paragraph 2 about Mechanical Engineering Division.
+							Paragraph 2 about Civil Engineering Division.
 						</p>
 					</div>
 				</div>
@@ -75,34 +75,63 @@
 
 				<div class="row">
 					<div class="span8">
-						<h3>Civil And Building Engineering Division</h3>
-						<p>
-							Paragraph 1 about Civil And Building Engineering Division.
-						</p>
-						<p>
-							Paragraph 2 about Civil And Building Engineering Division.
-						</p>
+						<h3>Water Engineering Division</h3>
+						<ul>Key Services:
+							<li>Bulk Water Supply</li>
+							<li>Storm water Management</li>
+							<li>Sewerage Trunk Sewers, Reticulation, Pump stations</li>
+							<li>Roads, Stormwater Drainage, Sewers and Water Supply</li>
+							<li>Water Supply</li>
+							<li>Wastewater Treatment</li>
+							<li>Polluted Stormwater Control</li>
+							<li>Stormwater Drainage Modelling</li>
+						</ul>
 					</div>
 					<div class="span4">
 						<p>
-							<img alt="" rel="tooltip" title="Some title" class="thumbnail fr" src="http://image.shutterstock.com/display_pic_with_logo/368671/368671,1296679547,7/stock-photo-background-image-of-d-70345660.jpg" width="240" />
+							<img alt="" rel="tooltip" title="Some title" class="thumbnail fr" src="img/water.png" width="240" />
 						</p>
 					</div>
 				</div>
 
+				<hr />
+
 				<div class="row">
 					<div class="span3">
 						<p>
-							<img rel="tooltip" title="Some title" alt="" class="thumbnail" src="http://image.shutterstock.com/display_pic_with_logo/183487/183487,1306438770,2/stock-vector-social-network-background-with-media-icons-78037456.jpg" width="200" />
+							<img rel="tooltip" title="Some title" alt="" class="thumbnail" src="img/mechanical.png" width="200" />
 						</p>
 					</div>      	
 					<div class="span9">
-						<h3>Water Engineering Division</h3>
+						<h3>Mechanical Engineering Division</h3>
+						<ul>Key Services:
+							<li>Boiler Making Solutions</li>
+							<li>Water Treatment Plants</li>
+							<li>Chillers Plant maintenance
+							<li>Water Purifying Chemicals</li>
+							<li>Power  Machine</li>
+							<li>Electric Power Stations</li>
+							<li>Power Machines</li>
+							<li>Central Energy Plant </li>
+						</ul>
+					</div>
+				</div>
+
+				<hr />
+
+				<div class="row">
+					<div class="span8">
+						<h3>Renewable Energy Engineering Division</h3>
 						<p>
-							Paragraph 1 about Water Engineering Division.
+							Paragraph 1 about Renewable Engineering Engineering Division.
 						</p>
 						<p>
-							Paragraph 2 about Water Engineering Division.
+							Paragraph 2 about Renewable Engineering Engineering Division.
+						</p>
+					</div>
+					<div class="span4">
+						<p>
+							<img alt="" rel="tooltip" title="Some title" class="thumbnail fr" src="img/renewable.png" width="240" />
 						</p>
 					</div>
 				</div>

@@ -5,27 +5,21 @@
 			<div id="content" class="container">
 				<div class="hero-unit">
 
-					<!-- headin gtext -->
-					<p class="ac">
+					<!-- heading text -->
+<!-- 					<p class="ac">
 						You can put some info here...
 					</p>
-
+ -->
 					<!-- Carousel -->	
 					<div id="carousel">
 						<div id="carousel" class="carousel slide" rel="carousel">
 							<!-- Carousel items -->				
 							<div class="carousel-inner">
-								<div class="active item">
-									<img src="img/carousel/setheoresources.jpg" />
-								</div>
-								<div class="item">
-									<img src="img/carousel/setheorealestate.jpg" />
+								<div class="active item" align="center">
+									<img src="img/carousel/1.jpg" />
 								</div>
 								<div class="item">
 									<img src="img/carousel/setheoelectric.jpg" />
-								</div>
-								<div class="item">
-									<img src="img/carousel/setheotours.jpg" />
 								</div>
 								<div class="item">
 									<img src="img/carousel/sethcom.jpg" />

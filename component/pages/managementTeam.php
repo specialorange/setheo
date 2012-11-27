@@ -13,7 +13,7 @@
 					<div class="row">
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/member.jpg" />
+								<img alt="" class="thumbnail" src="img/Dike.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>

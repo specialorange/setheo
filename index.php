@@ -48,6 +48,9 @@
 			elseif ($_GET["page"]=="managementTeam") {
 				include ("component/pages/managementTeam.php");
 			}
+			elseif ($_GET["page"]=="projects") {
+				include ("component/pages/projects.php");
+			}
 			elseif ($_GET["page"]=="locations") {
 				include ("component/pages/locations.php");
 			}
@@ -61,6 +64,7 @@
 				include ("component/pages/divisions.php");
 				include ("component/pages/news.php");
 				include ("component/pages/managementTeam.php");
+				include ("component/pages/projects.php");
 				include ("component/pages/locations.php");
 				include ("component/pages/contact.php");
 				include ("component/pages/about.php");
