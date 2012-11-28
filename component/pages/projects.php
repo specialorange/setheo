@@ -6,8 +6,9 @@
 
 		<div class="hero-unit">
 			<div class="ac">
-				<h1>Meet the best of our work!</h1><br />
-				<p>This is a template for a simple portfolio page with tags.</p>
+				<h1>Diversity Commitment</h1><br />
+				<p>At SETHEO we also  appreciate  the differences that define each one of us. The talents and abilities of our diverse workforce amplify our ability to innovate and make our clients successful.  The combined efforts of employees with unique perspectives create results that exceed what any of us could do individually.</p>
+				<p>SETHEO does not see the boundaries of race, ethnicity, religion or gender. We emphasize the diversity of thought that comes from the range of experience and understanding brought to the table by individual employee-owners. Our future depends on that diversity of thought to solve the challenges faced by our clients.</p>
 			</div>
 		</div>
 

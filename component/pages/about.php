@@ -5,24 +5,21 @@
 		<div id="content" class="container">
 		<div class="hero-unit">
 			<div class="ac">
-				<h1>Company History</h1><br />
-				<p>Since its inception SETHEO has grown phenomenally to become a force to reckon with in the Civil, Building, mechanical Engineering and electrical reticulation in South Africa. The company has a strong vision of developing the business into an engineering powerhouse delivering high quality projects in Africa and abroad. The main areas of specialisation are Electrical, Civil and Building Engineering and mechanical</p>
-				<p>SETHEO deliver electrical, civil, mechanical, Building and consulting services to a wide range of clients including state and local government, blue chip construction companies, land and property developers and allied professionals.</p>
-				<p>SETHEO prides itself on an effective and responsive approach that aims at providing cost-effective outcomes for clients and the community, together with the flexibility to supply dedicated teams for all projects irrespective of size and value.</p>
-				<p>For all projects our approach to service delivery remains the same:
-					<ul>
-						<li>We place priority in delivering projects on time and within budget.</li>
-						<li>We assign dedicated and customer focused teams with skills matched to the project requirements.</li>
-						<li>We employ a flexible approach that can be adapted to each client’s specific needs.</li>
-						<li>We are outcome driven.</li>
-					</ul>
-				</p>
-				<p>SETHEO is managed and structured to achieve trustworthy and effective results, even to the most challenging client requirements.</p>
-				<p>This, we believe, forms the foundation for mutually beneficial, long-term partnerships and will ensure that we reach our goal of adding value to our client’s processes.</p>
-				<p>We endeavour to exceed our clients’ expectations with the solutions we provide.</p>
-				<p>We aim to price our solutions and services competitively and deliver projects within budget while continuously striving to reduce cost.</p>
-				<p>SETHEO is organised and structured to form strategic partnerships with the client to make average business better and give them a competitive edge.</p>
+				<h1>Who We Are and What We Do</h1>
+				<p>SETHEO is a full-service engineering, construction, environmental and consulting solutions firm. Our multidisciplined staff includes engineers, architects, construction experts, planners, estimators, economists, technicians and scientists, representing virtually all design disciplines. We plan, design, permit, construct and manage facilities, with one mission in mind: Producing the best services for our clients.</p>
 			</div>
+			<div class="ac">
+				<img src="./img/lights.png" alt="Street Lights">
+			</div>
+			<div class="ac">
+				<h1>Our History</h1>
+				<p>SETHEO was founded in  …  in South Africa as a general contractor offering services such as site analysis, feasibility studies and preliminary studies. Since then, the company has grown into a multi-location, full service engineering firm with offices in Nigeria, Congo and the United States of America.  Adhering to our original objective of “helping our clients succeed,” SETHEO continues to  provides excellent electrical, civil, mechanical, building and consulting services to a wide range of clients including state and local government, blue chip construction companies, land and property developers and allied medical companies.</p>
+			</div>
+			<div class="ac">
+				<h1>Our Mission Statement</h1>
+				<p>Our mission is to be the best premier provider of general industrial construction, electrical, mechanical and civil services to our clients.</p>
+			</div>
+
 		</div>
 
 		</div>

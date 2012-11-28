@@ -19,7 +19,7 @@
 						<div class="nav-collapse fr">
 							<ul class="nav">
 								<li class="nav-li linkReplace"><a href="index.php?page=home">Home</a></li> <!-- #home -->
-								<li class="nav-li linkReplace"><a href="index.php?page=about">About us</a></li>   <!-- #about -->
+								<li class="nav-li linkReplace"><a href="index.php?page=about">About Us</a></li>   <!-- #about -->
 								<li class="nav-li linkReplace"><a href="index.php?page=divisions">Divisions</a></li>  <!-- #divisions -->
 								<li class="nav-li linkReplace"><a href="index.php?page=projects">Projects</a></li>   <!-- #projects -->
 								<li class="nav-li linkReplace"><a href="index.php?page=news">News</a></li>   <!-- #news -->
