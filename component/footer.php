@@ -4,17 +4,17 @@
 				<div class="span2">
 					<h3>Quick links:</h3>
 					<ul>
+						<li><span class="linkReplace"><a href="index.php?page=about" title="">About Us</a></span></li>
 						<li><span class="linkReplace"><a href="index.php?page=divisions" title="">Divisions</a></span></li>
-						<li><span class="linkReplace"><a href="index.php?page=news" title="">News</a></span></li>
-						<li><span class="linkReplace"><a href="index.php?page=managementTeam" title="">Management Team</a></span></li>
+						<li><span class="linkReplace"><a href="index.php?page=projects" title="">Projects</a></span></li>
 					</ul>
 				</div>
 				<div class="span2">
-					<ul></li><a href="" title="">Home</a></li></ul>
+					<ul><li><a href="" title="">Home</a></li></ul>
 					<ul>
-						<li><span class="linkReplace"><a href="index.php?page=locations" title="">Locations</a></span></li>
+						<li><span class="linkReplace"><a href="index.php?page=news" title="">News</a></span></li>
+						<li><span class="linkReplace"><a href="index.php?page=managementTeam" title="">Management</a></span></li>
 						<li><span class="linkReplace"><a href="index.php?page=contact" title="">Contact</a></span></li>
-						<li><span class="linkReplace"><a href="index.php?page=about" title="">About Us</a></span></li>
 					</ul>
 				</div>
 				<div class="span4 offset4 social-networks">

@@ -8,13 +8,13 @@
 			<div class="container hero-unit ac">
 				<div class="row">
 					<div class="span3">
-						<p>South Africa</p>
-					</div>
-					<div class="span3">
 						<p>Congo</p>
 					</div>
 					<div class="span3">
 						<p>Nigeria</p>
+					</div>
+					<div class="span3">
+						<p>South Africa</p>
 					</div>
 					<div class="span3">
 						<p>U.S</p>

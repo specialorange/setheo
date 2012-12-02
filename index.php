@@ -13,6 +13,7 @@
 	<?php include ("component/head.php"); ?> 
 
 	<!-- Custom css -->
+	<link href="css/user.css" rel="stylesheet">
 	<link href="css/style.min.css" rel="stylesheet">
 
 	<link href="css/font-awesome/font-awesome.css" rel="stylesheet">
@@ -51,9 +52,9 @@
 			elseif ($_GET["page"]=="projects") {
 				include ("component/pages/projects.php");
 			}
-			elseif ($_GET["page"]=="locations") {
-				include ("component/pages/locations.php");
-			}
+			// elseif ($_GET["page"]=="locations") {
+			// 	include ("component/pages/locations.php");
+			// }
 			elseif ($_GET["page"]=="contact") {
 				include ("component/pages/contact.php");
 			}
@@ -65,7 +66,7 @@
 				include ("component/pages/news.php");
 				include ("component/pages/managementTeam.php");
 				include ("component/pages/projects.php");
-				include ("component/pages/locations.php");
+				// include ("component/pages/locations.php");
 				include ("component/pages/contact.php");
 				include ("component/pages/about.php");
 			}

@@ -5,7 +5,7 @@
 			<div id="content" class="container">
 				<div class="hero-unit">
 					<div class="ac">
-						<h1>Meet our team or <span class="replaceLink"><a href="index.php?page=contact">visit us</a></span>.</h1>
+						<h1>Meet our team or <span class="linkReplace"><a href="index.php?page=contact">visit us</a></span>.</h1>
 					</div>
 				</div>
 
@@ -32,7 +32,7 @@
 
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/Dike.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/Dike.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>
@@ -135,7 +135,7 @@
 
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/member.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/Hope.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>
@@ -146,7 +146,7 @@
 							<h3 class="member-name">Hope Mago</h3>
 							<h4 class="member-position">Senior Business Consultant</h4>
 							<p class="member-bio">
-								Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Hope currently works for Huntington Capital, a San Diego based Private Equity firm where he leads in the analysis of new investment opportunities, investment due diligence, deal underwriting and is an active board participant at Huntington portfolio Companies. Huntington Capital has invested in over 46 companies across two Funds. Hope is currently the treasurer of the University of San Diego School of Business Alumni Council. Hope holds an MBA from the University of San Diego and BA in finance and banking from the University of Zimbabwe
 							</p>
 						</article>	
 					</div>

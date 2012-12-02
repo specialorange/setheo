@@ -24,9 +24,9 @@
 								<li class="nav-li linkReplace"><a href="index.php?page=projects">Projects</a></li>   <!-- #projects -->
 								<li class="nav-li linkReplace"><a href="index.php?page=news">News</a></li>   <!-- #news -->
 								<li class="nav-li linkReplace"><a href="index.php?page=managementTeam">Management</a></li>   <!-- #managementTeam -->
-								<li class="nav-li linkReplace"><a href="index.php?page=locations">Locations</a></li>   <!-- #locations -->
+								<!-- <li class="nav-li linkReplace"><a href="index.php?page=locations">Locations</a></li>  -->
 								<li class="nav-li linkReplace"><a href="index.php?page=contact">Contact</a></li>   <!-- #contact -->
-								<!-- <li><a href="alt.html">Alt</a></li>
+								<!-- <li><a href="alt.html">Alt</a></li> -->
 								<!-- <li><a href="plans.html">Pricing</a></li> -->
 								<!-- <li><button class="btn btn-primary">Sign In</button></li> -->
 							</ul>
