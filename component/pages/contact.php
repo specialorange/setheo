@@ -7,7 +7,7 @@
 
 		<div class="container hero-unit">
 			<div class="ac">
-				<p>South Africa, Congo, Nigeria, U.S</p> 
+				<p> you can include another map, a email form, and/or just contact info, your choice</p> 
 			</div>
 		</div>
 
