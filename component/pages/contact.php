@@ -5,9 +5,20 @@
 		<div id="content" class="container">
 		</div>
 
-		<div class="container hero-unit">
-			<div class="ac">
-				<p> you can include another map, a email form, and/or just contact info, your choice</p> 
+		<div class="container hero-unit ac">
+			<div class="row">
+				<div class="span3">
+					<p>Congo</p>
+				</div>
+				<div class="span3">
+					<p>Nigeria</p>
+				</div>
+				<div class="span3">
+					<p>South Africa</p>
+				</div>
+				<div class="span3">
+					<p>U.S</p>
+				</div>
 			</div>
 		</div>
 
