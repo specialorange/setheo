@@ -1,17 +1,12 @@
 		<!-- Navigation
 		================================================== -->
-	<noscript><div class="noscriptWarning">Kiva requires JavaScript to be enabled</div></noscript>
+	<noscript><div class="noscriptWarning"><p>SETHEO suggests using JavaScript to be enabled for full functionality</p></div></noscript>
 	<header id="header">
 		<div class="navbar" id="navbar"> 
 			<div class="navbar-inner">
 				<div class="container">
 					<div class="row">
-<!-- 						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</a>
- -->					<div class="span3">
+					<div class="span3">
 						<a class="brand" href="">
 							<img src="./img/setheoLogo.png" alt="Setheo Holdings"></a>
 					</div>
@@ -26,9 +21,6 @@
 								<li class="nav-li linkReplace"><a href="index.php?page=managementTeam">Management</a></li>   <!-- #managementTeam -->
 								<!-- <li class="nav-li linkReplace"><a href="index.php?page=locations">Locations</a></li>  -->
 								<li class="nav-li linkReplace"><a href="index.php?page=contact">Contact</a></li>   <!-- #contact -->
-								<!-- <li><a href="alt.html">Alt</a></li> -->
-								<!-- <li><a href="plans.html">Pricing</a></li> -->
-								<!-- <li><button class="btn btn-primary">Sign In</button></li> -->
 							</ul>
 						</div><!--/.nav-collapse -->
 					</div>

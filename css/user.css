@@ -18,3 +18,41 @@ a {
 footer .social-networks a {
 	background: none!important;
 }
+
+#portfolio-filter li.active a {
+	background: #929292!important;
+}
+
+.zoom .zoom-overlay {
+	top: 40px!important;
+}
+
+.navbar .nav {
+	float: right!important;
+}
+
+.navbar .nav > li > a {
+	padding: 26px 0px 27px 18px!important;
+}
+
+.navbar .nav > li.active > a {
+	background-position-x: 60%!important;
+}
+
+.carousel-inner img{
+	width: 100%;
+}
+
+.carousel-control.right {
+	right:-52px!important;
+}
+
+.carousel-control.left {
+	left:-51px!important;
+}
+
+.noscriptWarning {
+	background: #FF4040;
+	text-align: center!important;
+	font-weight: bold;
+}
