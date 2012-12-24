@@ -26,13 +26,13 @@
 							<h3 class="member-name">Tinashe Mangwana</h3>
 							<h4 class="member-position">President and CEO</h4>
 							<p class="member-bio">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+								Tinashe is the founder of Setheo Holdings. He has  over 15yrs experience in managing personnel in the civil and mechanical engineering sector . He sits on boards of several companies where he chairs some of the boards. Tinashe has an electrical engineering degree from City and Guilds of London Institute. He also holds an  an MBL degree from Unisa.
 							</p>
 						</article>
 
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/mgmt/Dike.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/dike.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>
@@ -49,7 +49,7 @@
 
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/member.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/dan.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-facebook"></a>
@@ -83,7 +83,7 @@
 
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/member.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/corn.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>
@@ -94,13 +94,13 @@
 							<h3 class="member-name">Cornelious Schwats</h3>
 							<h4 class="member-position">Operations Director</h4>
 							<p class="member-bio">
-								Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Cornelius is an Electrical and Civil Engineer who has more than 30 years working experience.  He has worked on several projects in South Africa(City power & Eskom) and has various experience in the Electrical Industry especially in the Power Distribution and Conversion system. His working experience include; designing, inspection and commissioning of installations,  industrial automation - building reticulation and installations and  experience  working with  LV, MV and HV power lines construction and maintenance including voltages ranging from 400V, 6,6KV, 11KV, 22KV, 66KV, 132KV & 220KVVoltages.  He holds a Masters degree in Electrical Engineering from Wits University, RSA.
 							</p>
 						</article>	
 
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/member.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/bev.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>
@@ -108,17 +108,17 @@
 								<a href="#" class="icon-github"></a>
 								<a href="#" class="icon-pinterest"></a>
 							</p>
-							<h3 class="member-name">Beven Moodley</h3>
+							<h3 class="member-name">Bevlen Moodley</h3>
 							<h4 class="member-position">Financial Director</h4>
 							<p class="member-bio">
-								Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Bevlen started his career 20 years ago in the finance department  at Unitrans Sugar (Pty) Ltd. Prior to joining Setheo as the head accountant and finance manager , Bevlen also worked for  Plan International Inc, headquartered in the UK and the Regional Finance department for Eastern and Southern Africa.  In addition to this, he also runs a successful accounting practice providing value services to emerging entrepreneurs. Belven is a graduate from The Institute of Chartered Secretaries Southern Africa (CSSA) where he majored in Finance and Corporate Governance.
 							</p>
 						</article>	
 					</div>
 					<div class="row">
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/member.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/mak.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>
@@ -129,13 +129,13 @@
 							<h3 class="member-name">Makhanye Dilubenzi</h3>
 							<h4 class="member-position">Chief Engineer</h4>
 							<p class="member-bio">
-								Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Makhaye, has worked on several projects in SNEL(Power Utility DRC) and has various working experience in the Electrical Industry especially in the Power Distribution and Conversion system as he participated in many Projects in INGA Power Plant like : -Replacement of Harmonic Filters in the Conversion Station, Power Transformers up to 120MVA in the AC Yard-SCI, Replacement and Refurbishment of Various Types of Switch-Gear, Synchronous compensators etc.  He is currently completing his M.Eng-GDE Mechanical at WITS University- RSA.
 							</p>
 						</article>	
 
 						<article class="member span4">
 							<div class="member-avatar">
-								<img alt="" class="thumbnail" src="img/mgmt/Hope.jpg" />
+								<img alt="" class="thumbnail" src="img/mgmt/hope.jpg" />
 							</div>
 							<p class="member-networks">
 								<a href="#" class="icon-twitter"></a>
