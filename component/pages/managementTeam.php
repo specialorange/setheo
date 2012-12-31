@@ -59,7 +59,7 @@
 							<h3 class="member-name">Daniel Kantagni</h3>
 							<h4 class="member-position">Executive Director, (Congo)</h4>
 							<p class="member-bio">
-								Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Daniel has a Masters in law,from DRC. He is a  senior manager with a 25-year career in the field of industrial work (electrical work, mechanical and civil engineering). Prior to joining Setheo, he he was also a manager in several different companies in Congo.
 							</p>
 						</article>
 					</div>

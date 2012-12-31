@@ -8,16 +8,26 @@
 		<div class="container hero-unit ac">
 			<div class="row">
 				<div class="span3">
-					<p>Congo</p>
+					<h2>Congo</h2>
+					<p>Immeuble Fobert, 59, Bld Denis Sassou Nguesso, Brazzaville</p>
+					<p>Telephone:  242-05-695-0393</p>
 				</div>
 				<div class="span3">
-					<p>Nigeria</p>
+					<h2>Nigeria</h2>
 				</div>
 				<div class="span3">
-					<p>South Africa</p>
+					<h2>South Africa</h2>
+					<p>22 Richards Drive, Halfway House</p>
+					<p>Midrand, Johannesburg</p>
+					<p>Telephone: +27 11 312 9860</p>
+					<p><a class="btn btn-large btn-primary" href="mailto:info@setheoholdings.com"><b>info@setheoholdings.com</b></a><br /><br />
 				</div>
 				<div class="span3">
-					<p>U.S</p>
+					<h2>U.S</h2>
+					<p>5844 Riley Street, #7</p>
+					<p>San Diego, CA 92110</p>
+					<p>Telephone: +1-864-506-0412</p>
+					<p><a class="btn btn-large btn-primary" href="mailto:kumbie@setheoholdings"><b>kumbie@setheoholdings</b></a><br /><br />
 				</div>
 			</div>
 		</div>

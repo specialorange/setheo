@@ -18,8 +18,8 @@
 					</ul>
 				</div>
 				<div class="span4 offset4 social-networks">
-					<h3>Stay in touch</h3>
-					<p>Stay in touch on social networks :</p>
+					<h3>Stay in touch:</h3>
+					<!-- <p>Stay in touch on social networks :</p> -->
 					<a href="http://www.facebook.com/pages/Setheo-Holdings/125043510985839" title="Follow us on Facebook" class="icon-facebook"></a>
 					<a href="https://twitter.com/SetheoHoldings" title="Follow us on Twitter" class="icon-twitter"></a>
 					<a href="https://plus.google.com/u/3/115730941609673544378/posts" title="Follow us on Google Plus" class="icon-google-plus"></a>

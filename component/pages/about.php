@@ -13,7 +13,8 @@
 			</div>
 			<div class="ac">
 				<h1>Our History</h1>
-				<p>SETHEO was founded in  …  in South Africa as a general contractor offering services such as site analysis, feasibility studies and preliminary studies. Since then, the company has grown into a multi-location, full service engineering firm with offices in Nigeria, Congo and the United States of America.  Adhering to our original objective of “helping our clients succeed,” SETHEO continues to  provides excellent electrical, civil, mechanical, building and consulting services to a wide range of clients including state and local government, blue chip construction companies, land and property developers and allied medical companies.</p>
+				<p>Setheo Engineering was founded  in 2007 by Tinashe Mangwana. The first offices were based  in South Africa with a small group of 12 employees. However, the company has since expanded and now employs over 300 individuals, with offices in Congo, Nigeria, U.S and Zimbabwe.
+Currently, our key areas of service include: electrical, civil, mechanical, building and telecoms engineering. Setheo clientele also consists of  municipalities, governments and many other private entities.</p>
 			</div>
 			<div class="ac">
 				<h1>Our Mission Statement</h1>
