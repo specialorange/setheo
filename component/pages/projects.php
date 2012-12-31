@@ -27,73 +27,72 @@
 			<div class="row" id="portfolio-items">
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="design">
-
-					<a class="thumbnail" href="">
+				<div id="portfolio1" class="span4 project zoom" data-tags="design" rel="popover" data-placement="left" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 1">
+					<a class="thumbnail">
 						<!-- image -->
 						<img src="http://placehold.it/300x200/222/fff" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">1</b>
 					</a>
 				</div>
 				<!-- end portfolio item-->
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="corporate">
+				<div id="portfolio2" class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 2">
 
-					<a class="thumbnail" href="">
+					<a class="thumbnail">
 						<!-- image -->
 						<img src="http://placehold.it/300x200/F8F3E0/888" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">2</b>
 					</a>
 				</div>
 				<!-- end portfolio item-->
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="mobile">
+				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="right" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 3">
 
-					<a class="thumbnail" href="">
+					<a class="thumbnail">
 						<!-- image -->
 						<img src="http://placehold.it/300x200/DE765A/fff" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">3</b>
 					</a>
 				</div>
 				<!-- end portfolio item-->
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="web">
+				<div class="span4 project zoom" data-tags="web" rel="popover" data-placement="left" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 4">
 
-					<a class="thumbnail" href="">
+					<a class="thumbnail">
 						<!-- image -->
 						<img src="http://placehold.it/300x200/DDDDDC/888" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">4</b>
 					</a>
 				</div>
 				<!-- end portfolio item-->
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="mobile">
+				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 5">
 
-					<a class="thumbnail" href="">
+					<a class="thumbnail">
 						<!-- image -->
 						<img src="http://placehold.it/300x200/92B978/fff" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">5</b>
 					</a>
 				</div>
 				<!-- end portfolio item-->												
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="corporate">
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="right" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 6">
 
-					<a class="thumbnail" href="">
+					<a class="thumbnail">
 						<!-- image -->
 						<img src="http://placehold.it/300x200/79B9F2/fff" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">6</b>
 					</a>
 				</div>
 				<!-- end portfolio item-->
@@ -121,6 +120,17 @@
 					</a>
 				</div>
 				<!-- end portfolio item-->						
+				<script type="text/javascript">
+					$(function() {
+						$("#portfolio1").popover();
+						$("#portfolio2").popover();
+						$("#portfolio3").popover();
+						$("#portfolio4").popover();
+						$("#portfolio5").popover();
+						$("#portfolio6").popover();
+					});
+				</script>
+
 			</div>
 
 		</div>

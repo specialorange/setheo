@@ -35,7 +35,7 @@
 				</div>      	
 				<div class="span5 offset4">
 					<h3>Civil Engineering Division</h3>
-						<span style="font-weight:bold">Key Services:</span>
+						<span style="font-weight:bold">Key Services:</span><br/>
 							Feasibility studies, reports and cost estimating<br/>
 							Conceptual planning, layout and designs<br/>
 							Site development and engineering<br/>
@@ -81,7 +81,7 @@
 				</div>      	
 				<div class="span5 offset4">
 					<h3>Water Engineering Division</h3>
-					<span style="font-weight:bold">Key Services:</span>
+					<span style="font-weight:bold">Key Services:</span><br/>
 						Bulk Water Supply<br/>
 						Storm water Management<br/>
 						Sewerage Trunk Sewers, Reticulation, Pump stations<br/>
@@ -103,7 +103,7 @@
 				</div>
 				<div class="span5 offset4">
 					<h3>Mechanical Engineering Division</h3>
-					<span style="font-weight:bold">Key Services:</span>
+					<span style="font-weight:bold">Key Services:</span><br/>
 						Boiler Making Solutions<br/>
 						Water Treatment Plants<br/>
 						Chillers Plant maintenance<br/>
