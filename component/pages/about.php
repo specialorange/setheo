@@ -9,7 +9,7 @@
 				<p>SETHEO is a full-service engineering, construction, environmental and consulting solutions firm. Our multidisciplined staff includes engineers, architects, construction experts, planners, estimators, economists, technicians and scientists, representing virtually all design disciplines. We plan, design, permit, construct and manage facilities, with one mission in mind: Producing the best services for our clients.</p>
 			</div>
 			<div class="ac">
-				<img src="./img/lights.png" alt="Street Lights">
+				<img src="./img/aboutPipe.jpg" alt="Street Lights">
 			</div>
 			<div class="ac">
 				<h1>Our History</h1>

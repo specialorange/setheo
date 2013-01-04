@@ -27,7 +27,7 @@
 			<div class="row" id="portfolio-items">
 
 				<!-- portfolio item-->
-				<div id="portfolio1" class="span4 project zoom" data-tags="design" rel="popover" data-placement="left" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 1">
+				<div id="portfolio1" class="span4 project zoom" data-tags="design" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 1">
 					<a class="thumbnail">
 						<!-- image -->
 						<img src="http://placehold.it/300x200/222/fff" />
@@ -50,7 +50,7 @@
 				<!-- end portfolio item-->
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="right" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 3">
+				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 3">
 
 					<a class="thumbnail">
 						<!-- image -->
@@ -62,7 +62,7 @@
 				<!-- end portfolio item-->
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="web" rel="popover" data-placement="left" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 4">
+				<div class="span4 project zoom" data-tags="web" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 4">
 
 					<a class="thumbnail">
 						<!-- image -->
@@ -86,7 +86,7 @@
 				<!-- end portfolio item-->												
 
 				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="right" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 6">
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 6">
 
 					<a class="thumbnail">
 						<!-- image -->

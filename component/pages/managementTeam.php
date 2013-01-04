@@ -43,7 +43,7 @@
 							<h3 class="member-name">Dike Aguonye</h3>
 							<h4 class="member-position">Executive Director, (Nigeria)</h4>
 							<p class="member-bio">
-								Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Dike has been instrumental in building the firm’s solid reputation with Nigerian  central municipalities. His high level of client service, commitment to quality and proven expertise sets a solid foundation for his role as Setheo, Nigerian Director. Dike  has almost 20 years of experience as a senior marketing manager in the engineering, manufacturing and service sectors. Dike earned his Marketing degree from the  University of Port Harcourt, Nigeria.
 							</p>
 						</article>	
 
