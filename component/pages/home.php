@@ -5,11 +5,6 @@
 			<div id="content" class="container">
 				<div class="hero-unit">
 
-					<!-- heading text -->
-<!-- 					<p class="ac">
-						You can put some info here...
-					</p>
- -->
 					<!-- Carousel -->	
 					<div id="carousel">
 						<div id="carousel" class="carousel slide" rel="carousel">
@@ -35,6 +30,7 @@
 					</div>
 				</div>
 
+				<!-- Info -->
 				<div class="row">
 					<div class="span8">
 						<h1 class="lead">
@@ -48,9 +44,9 @@
 						</p>
 					</div>
 				</div>
-
 				<hr />
 
+				<!-- Info -->
 				<div class="row">
 					<div class="span4">
 						<h2><span class="grey">Work</span> with us</h2>
@@ -60,12 +56,12 @@
 					<div class="span4">
 						<h2><span class="grey">Our</span> Corporate Values</h2>
 						<ul>
-							<li><span style="text-decoration: underline;">Safety</span>	           	We dedicate ourselves to Zero Injury Performance</li>
-							<li><span style="text-decoration: underline;">Customers</span>       	We commit to “Customers For Life”</li>
-							<li><span style="text-decoration: underline;">Integrity</span>           	We earn the respect & trust of our clients and associates</li>
-							<li><span style="text-decoration: underline;">Leadership</span>      	We create our future through continuous improvement and innovation</li>
-							<li><span style="text-decoration: underline;">People</span>              	We commit to growth, development and empowerment of our people</li>
-							<li><span style="text-decoration: underline;">Profitability</span>     	We provide economic value for our customers and employees</li>
+							<li><span style="text-decoration: underline;">Safety</span>We dedicate ourselves to Zero Injury Performance</li>
+							<li><span style="text-decoration: underline;">Customers</span>We commit to “Customers For Life”</li>
+							<li><span style="text-decoration: underline;">Integrity</span>We earn the respect & trust of our clients and associates</li>
+							<li><span style="text-decoration: underline;">Leadership</span>We create our future through continuous improvement and innovation</li>
+							<li><span style="text-decoration: underline;">People</span>We commit to growth, development and empowerment of our people</li>
+							<li><span style="text-decoration: underline;">Profitability</span>We provide economic value for our customers and employees</li>
 						</ul>
 					</div>
 					<div class="span4">

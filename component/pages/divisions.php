@@ -8,6 +8,7 @@
 				</div>
 			</div>
 
+			<!-- EED -->
 			<div class="row">
 				<div class="span3">
 					<p>
@@ -24,9 +25,9 @@
 							Fabrication and installation contractor surveillance<br/>
 				</div>
 			</div>
-
 			<hr />
 
+			<!-- CED -->
 			<div class="row">
 				<div class="span3">
 					<p>
@@ -51,9 +52,9 @@
 							Construction monitoring<br/>
 				</div>
 			</div>
-
 			<hr />
 
+			<!-- CSD -->
 			<div class="row">
 				<div class="span3">
 					<p>
@@ -70,9 +71,9 @@
 					</p>
 				</div>
 			</div>
-
 			<hr />
 
+			<!-- WED -->
 			<div class="row">
 				<div class="span3">
 					<p>
@@ -92,9 +93,9 @@
 						Stormwater Drainage Modelling<br/>
 				</div>
 			</div>
-
 			<hr />
 
+			<!-- MED -->
 			<div class="row">
 				<div class="span3">
 					<p>
@@ -114,9 +115,9 @@
 						Central Energy Plant<br/>
 				</div>
 			</div>
-
 			<hr />
 
+			<!-- REED -->
 			<div class="row">
 				<div class="span3">
 					<p>
@@ -132,9 +133,9 @@
 						Utility relocation strategies, including feasibility analysis<br/>
 				</div>
 			</div>
-
 			<hr />
 
+			<!-- Contact -->
 			<div class="well ac">
 				<h3>
 					<span class="linkReplace"><a href="index.php?page=contact" title="Contact us now!">Contact us now!</a></span>

@@ -26,108 +26,246 @@
 			<!-- portfolio items -->		
 			<div class="row" id="portfolio-items">
 
-				<!-- portfolio item-->
-				<div id="portfolio1" class="span4 project zoom" data-tags="design" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 1">
+				<!-- project-->
+				<div id="portfolio1" class="span4 project zoom" data-tags="design" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US8,2million)=R70million</li>
+						<li>Length-18months</li>
+						<li>Client-Department of Human Settlements</li><li>Description-Construction of 1000 houses under the department’s fast track programme for the Mpumalanga province.The project included all electrical installations.</li>
+					</ul>
+					" data-original-title="Building of Fast Track Project houses./Mpumalanga">
 					<a class="thumbnail">
 						<!-- image -->
-						<img src="http://placehold.it/300x200/222/fff" />
+						<img src="img/projects/1.jpg" />
 						<!-- name -->
-						<b class="project-name">1</b>
+						<b class="project-name">Building of Fast Track Project houses./Mpumalanga</b>
 					</a>
 				</div>
-				<!-- end portfolio item-->
+				<!-- end project-->
 
-				<!-- portfolio item-->
-				<div id="portfolio2" class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 2">
-
-					<a class="thumbnail">
-						<!-- image -->
-						<img src="http://placehold.it/300x200/F8F3E0/888" />
-						<!-- name -->
-						<b class="project-name">2</b>
-					</a>
-				</div>
-				<!-- end portfolio item-->
-
-				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 3">
-
-					<a class="thumbnail">
-						<!-- image -->
-						<img src="http://placehold.it/300x200/DE765A/fff" />
-						<!-- name -->
-						<b class="project-name">3</b>
-					</a>
-				</div>
-				<!-- end portfolio item-->
-
-				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="web" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 4">
+				<!-- project-->
+				<div id="portfolio2" class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value –(US$5,000,000.00)=R42million</li>
+						<li>Length-24 months</li>
+						<li>Client –Provincial Resettlement department.</li>
+						<li>Description –Building of 1400 low cost houses.the project included all other civil and electrical installation works upto completion.</li>
+					</ul>
+					" data-original-title="Mayflower Low cost Housing/Mpumalanga">
 
 					<a class="thumbnail">
 						<!-- image -->
-						<img src="http://placehold.it/300x200/DDDDDC/888" />
+						<img src="img/projects/2.jpg" />
 						<!-- name -->
-						<b class="project-name">4</b>
+						<b class="project-name">Mayflower Low cost Housing/Mpumalanga</b>
 					</a>
 				</div>
-				<!-- end portfolio item-->
+				<!-- end project-->
 
-				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 5">
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$7,500,000.00)=R63million</li>
+						<li>Length-30months</li>
+						<li>Client-Tamilika Consulting</li>
+						<li>Description-construction of Community Residential Units in Lebohang for Govan Mbeki Municipality.the project included all the excavations and demolitions and site preparation and clearance.it also included civil and electrical works.</li>
+					</ul>
+					" data-original-title="Community Residential Units/Mpumalanga">
 
 					<a class="thumbnail">
 						<!-- image -->
-						<img src="http://placehold.it/300x200/92B978/fff" />
+						<img src="img/projects/3.jpg" />
 						<!-- name -->
-						<b class="project-name">5</b>
+						<b class="project-name">Community Residential Units/Mpumalanga</b>
 					</a>
 				</div>
-				<!-- end portfolio item-->												
+				<!-- end project-->
 
-				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?And here's some amazing content. It's very engaging. right?" data-original-title="Project 6">
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="web" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US2,500,000.00)=R21million</li>
+						<li>Length-18months</li>
+						<li>Client-Govan Mbeki Municipality</li>
+						<li>Drescription-construction and Upgrade of Govan Mbeki Municipality offices.The projected included construction of additional offices and renovation of existing office buildings.other additional work included plumbing and painting.</li>
+					</ul>
+					" data-original-title="Construction and Upgrade/Govan Mbeki ">
 
 					<a class="thumbnail">
 						<!-- image -->
-						<img src="http://placehold.it/300x200/79B9F2/fff" />
+						<img src="img/projects/4.jpg" />
 						<!-- name -->
-						<b class="project-name">6</b>
+						<b class="project-name">Construction and Upgrade/Govan Mbeki </b>
 					</a>
 				</div>
-				<!-- end portfolio item-->
+				<!-- end project-->
 
-				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="design">
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$2,800,000.00)R23million</li>
+						<li>Length-36 months</li>
+						<li>Client- Department of Health</li>
+						<li>Minor Electrical maintenance of hospitals in the eastern Cape area.</li>
+					</ul>
+					" data-original-title="Hospital maintenance/Eastern Cape">
+
+					<a class="thumbnail">
+						<!-- image -->
+						<img src="img/projects/5.jpg" />
+						<!-- name -->
+						<b class="project-name">Hospital maintenance/Eastern Cape</b>
+					</a>
+				</div>
+				<!-- end project-->												
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$700,000.00)=R5,9million</li>
+						<li>Length-12 months</li>
+						<li>Client-Makana Municipality </li>
+						<li>Description-carry out sewer reticulation system for Grahamstown area extension 6.</li>
+					</ul>
+					" data-original-title="Sewer Reticulation/Eastern Cape">
+
+					<a class="thumbnail">
+						<!-- image -->
+						<img src="img/projects/6.jpg" />
+						<!-- name -->
+						<b class="project-name">Sewer Reticulation/Eastern Cape</b>
+					</a>
+				</div>
+				<!-- end project-->
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$500 000.00)=R4,2million
+						<li>Length-6months</li>
+						<li>Client-chief Albert Luthuli Municipality</li>
+						<li>Description-Construction of Landfill site access road.</li>
+					</ul>
+					" data-original-title="Gravel Road/Elukwatini">
 
 					<a class="thumbnail" href="">
 						<!-- image -->
-						<img src="http://placehold.it/300x200/FCDE89/fff" />
+						<img src="img/projects/7.jpg" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">Gravel Road/Elukwatini</b>
 					</a>
 				</div>
-				<!-- end portfolio item-->
+				<!-- end project-->
 
-				<!-- portfolio item-->
-				<div class="span4 project zoom" data-tags="mobile">
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-US$1400,000.00)=R11,9million</li>
+						<li>Length-12months</li>
+						<li>Client-Ekurhuleni Metropolitan Municipality</li>
+						<li>Description-Construction,repair and maintain sidewalks,paved areas and storm water drains on an as and when required basis.</li>
+					</ul>
+					" data-original-title="Ekurhuleni /Stormwater Drains/Pavements">
 
 					<a class="thumbnail" href="">
 						<!-- image -->
-						<img src="http://placehold.it/300x200/666/fff" />
+						<img src="img/projects/8.jpg" />
 						<!-- name -->
-						<b class="project-name">Title</b>
+						<b class="project-name">Ekurhuleni /Stormwater Drains/Pavements</b>
 					</a>
 				</div>
-				<!-- end portfolio item-->						
+				<!-- end project-->						
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$1,400,000.00)=R11,4million</li>
+						<li>Length-36months</li>
+						<li>Client-City Power Johannesburg</li>
+						<li>Description-Labour contracts for the installation and maintenance of medium and low voltage electrical infrastructure including public lighting and high mast refurbishment.</li>
+					</ul>
+					" data-original-title="Labour Contracts/City Power Johannesburg">
+
+					<a class="thumbnail" href="">
+						<!-- image -->
+						<img src="img/projects/9.jpg" />
+						<!-- name -->
+						<b class="project-name">Labour Contracts/City Power Johannesburg</b>
+					</a>
+				</div>
+				<!-- end project-->						
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$4,500,000.00)=RR38,2million.</li>
+						<li>Client-Chief Albert Luthuli Municipality</li>
+						<li>Description-Proffessional Consultant for provision of Substation Maintenance and Protection Audit.</li>
+					</ul>
+					" data-original-title="Substation Maintenance/Mpumalanga">
+
+					<a class="thumbnail" href="">
+						<!-- image -->
+						<img src="img/projects/10.jpg" />
+						<!-- name -->
+						<b class="project-name">Substation Maintenance/Mpumalanga</b>
+					</a>
+				</div>
+				<!-- end project-->						
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$6,6Million)=R56million</li>
+						<li>Length-24months</li>
+						<li>Client-Imbabazane Local Municipality.</li>
+						<li>Description-Construction of 1000 units of low cost housing.</li>
+					</ul>
+					" data-original-title="Imbabazane/Low cost Housing">
+
+					<a class="thumbnail" href="">
+						<!-- image -->
+						<img src="img/projects/11.jpg" />
+						<!-- name -->
+						<b class="project-name">Imbabazane/Low cost Housing</b>
+					</a>
+				</div>
+				<!-- end project-->						
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$6,6million)=R56million</li>
+						<li>Length-24months</li>
+						<li>Client –Indaka Local Municipality</li>
+						<li>Description-Construction of 1000 low costing houses under the government’s rural development programme.</li>
+					</ul>
+					" data-original-title="Indaka Local Municipality/Kwazulu Natal/RDP Houses">
+
+					<a class="thumbnail" href="">
+						<!-- image -->
+						<img src="img/projects/12.jpg" />
+						<!-- name -->
+						<b class="project-name">Indaka Local Municipality/Kwazulu Natal/RDP Houses</b>
+					</a>
+				</div>
+				<!-- end project-->
+
+				<!-- popovers -->
 				<script type="text/javascript">
 					$(function() {
-						$("#portfolio1").popover();
-						$("#portfolio2").popover();
-						$("#portfolio3").popover();
-						$("#portfolio4").popover();
-						$("#portfolio5").popover();
-						$("#portfolio6").popover();
+						$("#portfolio1").popover({ html : true });
+						$("#portfolio2").popover({ html : true });
+						$("#portfolio3").popover({ html : true });
+						$("#portfolio4").popover({ html : true });
+						$("#portfolio5").popover({ html : true });
+						$("#portfolio6").popover({ html : true });
+						$("#portfolio7").popover({ html : true });
+						$("#portfolio8").popover({ html : true });
+						$("#portfolio9").popover({ html : true });
+						$("#portfolio10").popover({ html : true });
+						$("#portfolio11").popover({ html : true });
+						$("#portfolio12").popover({ html : true });
 					});
 				</script>
 

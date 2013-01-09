@@ -3,6 +3,8 @@
 		<!-- Content
 		================================================== -->
 		<div id="content" class="container">
+
+		<!-- Info -->
 		<div class="hero-unit">
 			<div class="ac">
 				<h1>Who We Are and What We Do</h1>
@@ -14,7 +16,7 @@
 			<div class="ac">
 				<h1>Our History</h1>
 				<p>Setheo Engineering was founded  in 2007 by Tinashe Mangwana. The first offices were based  in South Africa with a small group of 12 employees. However, the company has since expanded and now employs over 300 individuals, with offices in Congo, Nigeria, U.S and Zimbabwe.
-Currently, our key areas of service include: electrical, civil, mechanical, building and telecoms engineering. Setheo clientele also consists of  municipalities, governments and many other private entities.</p>
+				Currently, our key areas of service include: electrical, civil, mechanical, building and telecoms engineering. Setheo clientele also consists of  municipalities, governments and many other private entities.</p>
 			</div>
 			<div class="ac">
 				<h1>Our Mission Statement</h1>

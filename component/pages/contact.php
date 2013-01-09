@@ -5,6 +5,7 @@
 		<div id="content" class="container">
 		</div>
 
+		<!-- Locations -->
 		<div class="container hero-unit ac">
 			<div class="row">
 				<div class="span3">
@@ -14,6 +15,8 @@
 				</div>
 				<div class="span3">
 					<h2>Nigeria</h2>
+					<p>37 Romford Street, Sun City</p>
+					<p>Abuja, Nigeria</p>
 				</div>
 				<div class="span3">
 					<h2>South Africa</h2>
@@ -32,21 +35,16 @@
 			</div>
 		</div>
 
-		<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=212043342089249462794.00048cfeb10fb9d85b995&amp;ie=UTF8&amp;t=m&amp;ll=35.234403,-80.822296&amp;spn=0.392595,0.137329&amp;z=10&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?msa=0&amp;msid=212043342089249462794.00048cfeb10fb9d85b995&amp;ie=UTF8&amp;t=m&amp;ll=35.234403,-80.822296&amp;spn=0.392595,0.137329&amp;z=10&amp;source=embed" style="color:#0000FF;text-align:left">Charlotte</a> in a larger map</small>
+		<!-- Map -->
+		<div id="map">
+			<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=218409705483020318852.0004d2d08baa6531e6098&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=9.795678,-61.171875&amp;spn=103.720297,351.5625&amp;z=2&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=218409705483020318852.0004d2d08baa6531e6098&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=9.795678,-61.171875&amp;spn=103.720297,351.5625&amp;z=2&amp;source=embed" style="color:#0000FF;text-align:left">Setheo Holdings</a> in a larger map</small>
+		</div>
 
-
+		<!-- Info Section -->
 		<div class="container hero-unit">
 			<div class="row">
-				<p class="span4 ac">
-					<br />
-					<a class="btn btn-large btn-primary"><b>@ Write us</b></a><br /><br />
-					<b>Company that Rocks!</b><br />1601 California Ave, Palo Alto, California · <a>Get Directions</a>
-				</p>
-				<p class="span4">
-					We combine industry expertise with innovative technology to deliver critical information to leading decision makers in the financial, legal, tax and accounting, healthcare, science and media markets, powered by the world’s most trusted news organization.
-				</p>
-				<p class="span4">
-					We combine industry expertise with innovative technology to deliver critical information to leading decision makers in the financial, legal, tax and accounting, healthcare, science and media markets, powered by the world’s most trusted news organization.
+				<p class="span8 offset4">
+					Setheo Engineering provides a diversity of talent with a level of personal service rarely found in firms our size.Our aim is to develop long-term relationships with our clients, not short-lived project associations. We take the responsibility of designing our projects seriously. We believe that our principals should be hands-on, day-to-day. Our principals not only market the firm, they take the responsibility for ensuring that all aspects of each phase of a project are thoroughly completed.
 				</p>
 			</div>
 		</div>
