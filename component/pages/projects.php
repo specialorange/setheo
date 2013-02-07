@@ -17,34 +17,34 @@
 			<!-- portfolio filter -->		
 			<ul id="portfolio-filter" class="nav nav-tabs">
 				<li class="active"><a href="#" class="filter" data-filter="*">All</a></li>
-				<li><a href="#" class="filter" data-filter=".web">Web</a></li>
-				<li><a href="#" class="filter" data-filter=".design">Design</a></li>
-				<li><a href="#" class="filter" data-filter=".corporate">Corporate</a></li>
-				<li><a href="#" class="filter" data-filter=".mobile">Mobile</a></li>
+				<li><a href="#" class="filter" data-filter=".e">Electrical</a></li>
+				<li><a href="#" class="filter" data-filter=".c">Civil</a></li>
+				<li><a href="#" class="filter" data-filter=".b">Building</a></li>
+				<li><a href="#" class="filter" data-filter=".o">Ongoing</a></li>
 			</ul>
 
 			<!-- portfolio items -->		
 			<div class="row" id="portfolio-items">
 
 				<!-- project-->
-				<div id="portfolio1" class="span4 project zoom" data-tags="design" rel="popover" data-placement="bottom" data-content="
+				<div id="portfolio1" class="span4 project zoom" data-tags="b" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US8,2million)=R70million</li>
 						<li>Length-18months</li>
 						<li>Client-Department of Human Settlements</li><li>Description-Construction of 1000 houses under the department’s fast track programme for the Mpumalanga province.The project included all electrical installations.</li>
 					</ul>
-					" data-original-title="Building of Fast Track Project houses./Mpumalanga">
+					" data-original-title="Building of Fast Track Project houses/Mpumalanga">
 					<a class="thumbnail">
 						<!-- image -->
 						<img src="img/projects/1.jpg" />
 						<!-- name -->
-						<b class="project-name">Building of Fast Track Project houses./Mpumalanga</b>
+						<b class="project-name">Building of Fast Track Project houses/Mpumalanga</b>
 					</a>
 				</div>
 				<!-- end project-->
 
 				<!-- project-->
-				<div id="portfolio2" class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div id="portfolio2" class="span4 project zoom" data-tags="b" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value –(US$5,000,000.00)=R42million</li>
 						<li>Length-24 months</li>
@@ -63,7 +63,7 @@
 				<!-- end project-->
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="b" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$7,500,000.00)=R63million</li>
 						<li>Length-30months</li>
@@ -82,7 +82,7 @@
 				<!-- end project-->
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="web" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="b" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US2,500,000.00)=R21million</li>
 						<li>Length-18months</li>
@@ -101,7 +101,7 @@
 				<!-- end project-->
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="mobile" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="e o" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$2,800,000.00)R23million</li>
 						<li>Length-36 months</li>
@@ -120,7 +120,7 @@
 				<!-- end project-->												
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="c" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$700,000.00)=R5,9million</li>
 						<li>Length-12 months</li>
@@ -139,7 +139,7 @@
 				<!-- end project-->
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="c" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$500 000.00)=R4,2million
 						<li>Length-6months</li>
@@ -158,7 +158,7 @@
 				<!-- end project-->
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="c" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-US$1400,000.00)=R11,9million</li>
 						<li>Length-12months</li>
@@ -177,7 +177,7 @@
 				<!-- end project-->						
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="e o" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$1,400,000.00)=R11,4million</li>
 						<li>Length-36months</li>
@@ -196,7 +196,7 @@
 				<!-- end project-->						
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="e o" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$4,500,000.00)=RR38,2million.</li>
 						<li>Client-Chief Albert Luthuli Municipality</li>
@@ -214,7 +214,7 @@
 				<!-- end project-->						
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="b" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$6,6Million)=R56million</li>
 						<li>Length-24months</li>
@@ -233,7 +233,7 @@
 				<!-- end project-->						
 
 				<!-- project-->
-				<div class="span4 project zoom" data-tags="corporate" rel="popover" data-placement="bottom" data-content="
+				<div class="span4 project zoom" data-tags="c" rel="popover" data-placement="bottom" data-content="
 					<ul>
 						<li>Value-(US$6,6million)=R56million</li>
 						<li>Length-24months</li>
@@ -247,6 +247,44 @@
 						<img src="img/projects/12.jpg" />
 						<!-- name -->
 						<b class="project-name">Indaka Local Municipality/Kwazulu Natal/RDP Houses</b>
+					</a>
+				</div>
+				<!-- end project-->
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="e o" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value-(US$1500,000.00)=R12,7million</li>
+						<li>Length-12 months</li>
+						<li>Client-Ekurhuleni Metropolitan Municpality</li>
+						<li>Description-Building a new 11kV switching station including the 11kV connection to Eskom’s Transformer and the supply and delivery and installation of all associated equipment and material.</li>
+					</ul>
+					" data-original-title="Tsakane 11kV switching station/Ekurhuleni">
+
+					<a class="thumbnail" href="">
+						<!-- image -->
+						<img src="img/projects/13.jpg" />
+						<!-- name -->
+						<b class="project-name">Tsakane 11kV switching station/Ekurhuleni</b>
+					</a>
+				</div>
+				<!-- end project-->
+
+				<!-- project-->
+				<div class="span4 project zoom" data-tags="o" rel="popover" data-placement="bottom" data-content="
+					<ul>
+						<li>Value –(US$ 2,500,000.00)=R21million</li>
+						<li>Length -18 months</li>
+						<li>Client-Development Bank of Southern Africa</li>
+						<li>Description-Building of Primary school in the Eastern Cape provincefor DBSA under their accelerated school infrastructure development initiative.the project includes all the civil works and electrical installations as well as landscaping.</li>
+					</ul>
+					" data-original-title="School construction/Eastern Cape">
+
+					<a class="thumbnail" href="">
+						<!-- image -->
+						<img src="img/projects/14.jpg" />
+						<!-- name -->
+						<b class="project-name">School construction/Eastern Cape</b>
 					</a>
 				</div>
 				<!-- end project-->

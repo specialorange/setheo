@@ -29,7 +29,7 @@
 							<h3 class="member-name">Tinashe Mangwana</h3>
 							<h4 class="member-position">President and CEO</h4>
 							<p class="member-bio">
-								Tinashe is the founder of Setheo Holdings. He has  over 15yrs experience in managing personnel in the civil and mechanical engineering sector . He sits on boards of several companies where he chairs some of the boards. Tinashe has an electrical engineering degree from City and Guilds of London Institute. He also holds an  an MBL degree from Unisa.
+								Tinashe is the founder of SETHEO Holdings. He has  over 15yrs experience in managing personnel in the civil and mechanical engineering sector . He sits on boards of several companies where he chairs some of the boards. Tinashe has an electrical engineering degree from City and Guilds of London Institute. He also holds an  an MBL degree from Unisa.
 							</p>
 						</article>
 
@@ -47,7 +47,7 @@
 							<h3 class="member-name">Dike Aguonye</h3>
 							<h4 class="member-position">Executive Director, (Nigeria)</h4>
 							<p class="member-bio">
-								Dike has been instrumental in building the firm’s solid reputation with Nigerian  central municipalities. His high level of client service, commitment to quality and proven expertise sets a solid foundation for his role as Setheo, Nigerian Director. Dike  has almost 20 years of experience as a senior marketing manager in the engineering, manufacturing and service sectors. Dike earned his Marketing degree from the  University of Port Harcourt, Nigeria.
+								Dike has been instrumental in building the firm’s solid reputation with Nigerian  central municipalities. His high level of client service, commitment to quality and proven expertise sets a solid foundation for his role as SETHEO, Nigerian Director. Dike  has almost 20 years of experience as a senior marketing manager in the engineering, manufacturing and service sectors. Dike earned his Marketing degree from the  University of Port Harcourt, Nigeria.
 							</p>
 						</article>	
 
@@ -64,7 +64,7 @@
 							<h3 class="member-name">Daniel K Makila</h3>
 							<h4 class="member-position">Executive Director, (Congo)</h4>
 							<p class="member-bio">
-								Daniel has a Masters in law,from DRC. He is a  senior manager with a 25-year career in the field of industrial work (electrical work, mechanical and civil engineering). Prior to joining Setheo, he he was also a manager in several different companies in Congo.
+								Daniel has a Masters in law,from DRC. He is a  senior manager with a 25-year career in the field of industrial work (electrical work, mechanical and civil engineering). Prior to joining SETHEO, he was also a manager in several different companies in Congo.
 							</p>
 						</article>
 					</div>
@@ -84,7 +84,7 @@
 							<h3 class="member-name">Kumbie Madondo</h3>
 							<h4 class="member-position">Executive Director + Chief Operating Officer, (U.S.A.)</h4>
 							<p class="member-bio">
-								Kumbie is responsible for managing the day-to-day activities and core operations of the U.S firm. She has brought a sense of collaboration and individual responsibility to this effort. She holds a Masters in Applied Sociology from Clemson University and in the past she has worked in numerous interdisciplinary projects involving computer science, engineering and social science personnel. Prior working positions include: exports financial advisor for Stanbic Bank, consultant evaluation researcher for CDC, senior researcher for Just Cause and project manager for NAPWA. Kumbie continues to  consult for a number of  IT companies as well as non-profit organizations both in the East and West Coast. Since joining Setheo, she is active in business development efforts and special strategic projects for firm growth opportunities.
+								Kumbie is responsible for managing the day-to-day activities and core operations of the U.S firm. She has brought a sense of collaboration and individual responsibility to this effort. She holds a Masters in Applied Sociology from Clemson University and in the past she has worked in numerous interdisciplinary projects involving computer science, engineering and social science personnel. Prior working positions include: exports financial advisor for Stanbic Bank, consultant evaluation researcher for CDC, senior researcher for Just Cause and project manager for NAPWA. Kumbie continues to  consult for a number of  IT companies as well as non-profit organizations both in the East and West Coast. Since joining SETHEO, she is active in business development efforts and special strategic projects for firm growth opportunities.
 							</p>
 						</article>
 
@@ -120,7 +120,7 @@
 							<h3 class="member-name">Bevlen Moodley</h3>
 							<h4 class="member-position">Financial Director</h4>
 							<p class="member-bio">
-								Bevlen started his career 20 years ago in the finance department  at Unitrans Sugar (Pty) Ltd. Prior to joining Setheo as the head accountant and finance manager , Bevlen also worked for  Plan International Inc, headquartered in the UK and the Regional Finance department for Eastern and Southern Africa.  In addition to this, he also runs a successful accounting practice providing value services to emerging entrepreneurs. Belven is a graduate from The Institute of Chartered Secretaries Southern Africa (CSSA) where he majored in Finance and Corporate Governance.
+								Bevlen started his career 20 years ago in the finance department  at Unitrans Sugar (Pty) Ltd. Prior to joining SETHEO as the head accountant and finance manager , Bevlen also worked for  Plan International Inc, headquartered in the UK and the Regional Finance department for Eastern and Southern Africa.  In addition to this, he also runs a successful accounting practice providing value services to emerging entrepreneurs. Belven is a graduate from The Institute of Chartered Secretaries Southern Africa (CSSA) where he majored in Finance and Corporate Governance.
 							</p>
 						</article>
 					</div>
@@ -177,7 +177,7 @@
 							<h3 class="member-name">Tanya Schwartz</h3>
 							<h4 class="member-position">Senior Administration Manager</h4>
 							<p class="member-bio">
-								Tanya has vast experience in administrative responsibilities and has been the force behind the administrative work at Setheo Investments.She is  currently studying for an Accounting degree with Wits University. Prior to joining Setheo, she worked for Eagle Wings Engineering for 2 years as an Administrator. Tanya has vast experience in administrative responsibilities and has been the force behind the administrative work at Setheo Investments.She is  currently studying for an Accounting degree with Wits University. Prior to joining Setheo, she worked for Eagle Wings Engineering for 2 years as an Administrator.
+								Tanya has vast experience in administrative responsibilities and has been the force behind the administrative work at SETHEO Investments.She is  currently studying for an Accounting degree with Wits University. Prior to joining SETHEO, she worked for Eagle Wings Engineering for 2 years as an Administrator. Tanya has vast experience in administrative responsibilities and has been the force behind the administrative work at SETHEO Investments.She is  currently studying for an Accounting degree with Wits University. Prior to joining SETHEO, she worked for Eagle Wings Engineering for 2 years as an Administrator.
 							</p>
 						</article>
 					</div>

@@ -54,7 +54,7 @@
 			</div>
 			<hr />
 
-			<!-- CSD -->
+			<!-- EnvEngD -->
 			<div class="row">
 				<div class="span3">
 					<p>
@@ -62,13 +62,16 @@
 					</p>
 				</div>
 				<div class="span5 offset4">
-					<h3>Civil Services Division</h3>
-					<p>
-						Paragraph 1 about Civil Engineering Division.
-					</p>
-					<p>
-						Paragraph 2 about Civil Engineering Division.
-					</p>
+					<h3>Environmental Engineering Division</h3>
+					<span style="font-weight:bold">Key Services:</span><br/>
+						Underground Storage Tank Removal<br/>
+						ASTM Environmental Site Assessments<br/>
+						Wetlands Delineation and Permitting<br/>
+						Solid Waste Management<br/>
+						Municipal Leaf and Grass Composting Facilities<br/>
+						Lake Restoration and Waterfront Development<br/>
+						Stream Encroachment/Flood Plain Management<br/>
+						Septic Studies, Design and Construction<br/>
 				</div>
 			</div>
 			<hr />

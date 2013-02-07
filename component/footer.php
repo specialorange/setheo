@@ -22,8 +22,8 @@
 				<!-- Right -->
 				<div class="span4 offset4 social-networks">
 					<h3>Stay in touch:</h3>
-					<a href="http://www.facebook.com/pages/Setheo-Holdings/125043510985839" title="Follow us on Facebook" class="icon-facebook"></a>
-					<a href="https://twitter.com/SetheoHoldings" title="Follow us on Twitter" class="icon-twitter"></a>
+					<a href="http://www.facebook.com/pages/SETHEO-Holdings/125043510985839" title="Follow us on Facebook" class="icon-facebook"></a>
+					<a href="https://twitter.com/SETHEOHoldings" title="Follow us on Twitter" class="icon-twitter"></a>
 					<a href="https://plus.google.com/u/3/115730941609673544378/posts" title="Follow us on Google Plus" class="icon-google-plus"></a>
 				</div>
 			</div> <!-- /row -->
@@ -34,7 +34,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="span4">
-					&copy; 2012 Setheo Holdings
+					&copy; 2012 SETHEO Holdings
 				</div>
 				<div class="span4">
 					<i class="icon-phone"></i> &nbsp; 

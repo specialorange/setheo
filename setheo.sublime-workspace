@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"siz",
+				"font-size"
+			],
+			[
 				"de",
 				"deliveryPackage"
 			],
@@ -383,6 +387,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "component/pages/projects.php",
+			"settings":
+			{
+				"buffer_size": 10914,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "component/pages/managementTeam.php",
+			"settings":
+			{
+				"buffer_size": 10812,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -440,6 +460,30 @@
 	},
 	"file_history":
 	[
+		"/Users/special/Sites/setheo/index.php",
+		"/Users/special/Sites/setheo/component/pages/news.php",
+		"/Users/special/Sites/setheo/component/js.php",
+		"/Users/special/Sites/setheo/js/functions.js",
+		"/Users/special/Sites/setheo/component/pages/projects.php",
+		"/Users/special/Sites/setheo/component/pages/managementTeam.php",
+		"/Users/special/Sites/setheo/component/pages/contact.php",
+		"/Users/special/Sites/setheo/component/pages/locations.php",
+		"/Users/special/Sites/setheo/css/user.css",
+		"/Users/special/Sites/setheo/component/footer.php",
+		"/Users/special/Sites/setheo/component/pages/home.php",
+		"/Users/special/Sites/setheo/component/pages/divisions.php",
+		"/Users/special/Sites/setheo/component/pages/about.php",
+		"/Users/special/Sites/setheo/img/projects/1.jpg",
+		"/Users/special/Sites/setheo/component/projects/all.php",
+		"/Users/special/Sites/setheo/component/projects/index.php",
+		"/Users/special/Sites/setheo/component/projects/3.php",
+		"/Users/special/Sites/setheo/component/projects/4.php",
+		"/Users/special/Sites/setheo/component/projects/5.php",
+		"/Users/special/Sites/setheo/component/projects/6.php",
+		"/Users/special/Sites/setheo/component/projects/2.php",
+		"/Users/special/Sites/setheo/component/projects/1.php",
+		"/Users/special/Sites/setheo/component/navbar.php",
+		"/Users/special/Sites/setheo/component/head.php",
 		"/Users/special/dev/FDXCM/Gemfile",
 		"/Users/special/dev/FDXCM/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
 		"/Users/special/dev/FDXCM/app/views/layouts/_left.html.erb",
@@ -543,31 +587,7 @@
 		"/Users/special/dev/FDXCM/README.md",
 		"/Users/special/dev/FDXCM/Rails/fdxcm/db/migrate/20121210094356_create_vehicle_fuels.rb",
 		"/Users/special/dev/Llama-Node/README.md",
-		"/Users/special/Dropbox/TGM and Orange Projects/pics/controllers_brief.svg",
-		"/Users/special/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/special/dev/FDXCM/Rails/fdxcm/app/views/employees/new.html.erb",
-		"/Users/special/dev/FDXCM/Rails/fdxcm/app/views/employees/_form.html.erb",
-		"/Users/special/dev/FDXCM/Rails/fdxcm/db/migrate/20121208065226_create_notes.rb",
-		"/Users/special/dev/FDXCM/Rails/fdxcm/app/controllers/notes_controller.rb",
-		"/Users/special/dev/FDXCM/Rails/fdxcm/db/development.sqlite3",
-		"/Users/special/dev/FDXCM/Rails/fdxcm/db/test.sqlite3",
-		"/private/etc/hosts",
-		"/private/etc/apache2/extra/httpd-vhosts.conf",
-		"/private/etc/apache2/httpd.conf",
-		"/Users/special/dev/impress.js/impress.sublime-project",
-		"/Users/special/Sites/setheo/js/functions.min.js",
-		"/Users/special/Sites/setheo/component/pages/managementTeam.php",
-		"/Users/special/.bash_profile",
-		"/Users/special/Sites/setheo/component/head.php",
-		"/Users/special/Sites/setheo/component/navbar.php",
-		"/Users/special/Sites/setheo/component/pages/locations.php",
-		"/Users/special/Sites/setheo/component/pages/contact.php",
-		"/Users/special/.bashrc",
-		"/Users/special/Sites/setheo/js/functions.js",
-		"/Users/special/Sites/setheo/index.php",
-		"/Users/special/Sites/setheo/component/pages/divisions.php",
-		"/Users/special/Sites/setheo/component/js.php",
-		"/Users/special/Sites/setheo/component/footer.php"
+		"/Users/special/Dropbox/TGM and Orange Projects/pics/controllers_brief.svg"
 	],
 	"find":
 	{
@@ -586,6 +606,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"item",
+			"portfolio item",
+			"	",
+			"right",
+			"left",
+			"$_GET[\"page\"]",
+			"linkReplace",
+			"kumbie",
 			"hope",
 			"business",
 			"dailyData_id",
@@ -698,6 +726,60 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "component/pages/projects.php",
+					"settings":
+					{
+						"buffer_size": 10914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10795,
+								10795
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 801.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "component/pages/managementTeam.php",
+					"settings":
+					{
+						"buffer_size": 10812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

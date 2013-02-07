@@ -8,7 +8,7 @@
 					<div class="row">
 					<div class="span3">
 						<a class="brand" href="">
-							<img src="./img/setheoLogo.png" alt="Setheo Holdings"></a>
+							<img src="./img/setheoLogo.png" alt="SETHEO Holdings"></a>
 					</div>
 					<div class="span9 navbar pages"
 						<div class="nav-collapse fr">

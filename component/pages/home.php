@@ -32,16 +32,10 @@
 
 				<!-- Info -->
 				<div class="row">
-					<div class="span8">
-						<h1 class="lead">
-							<b>SETHEO</b> A breif description of what you want here....
+					<div class="span12">
+						<h1 class="lead" id="home-description">
+							SETHEO Engineering, a subsidiary of SETHEO Holdings, is a minority owned global engineering firm that provides premier electrical, mechanical and civil engineering services to developers, contractors, municipalities, state government and federal agencies.  
 						</h1>
-					</div>
-					<div class="span4">
-						<h3 class="ac">MAYBE<small> a more info button</small></h3>
-						<p class="ac">
-							<a class="btn btn-large btn-primary" href="plans.html" title=""><b>Click here or whatever you want</b></a>
-						</p>
 					</div>
 				</div>
 				<hr />

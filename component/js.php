@@ -52,7 +52,7 @@
 					$("a[data-filter='*']").click();
 				// Fix the google map rendering issue by destroying it and reloading it if accesses from another page
 				} else if ($this.find('a[href]').attr('href')=="#contact"){
-					var map = "<iframe width=\"100%\" height=\"350\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps/ms?msa=0&amp;msid=218409705483020318852.0004d2d08baa6531e6098&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=9.795678,-61.171875&amp;spn=103.720297,351.5625&amp;z=2&amp;output=embed\"></iframe><br /><small>View <a href=\"https://maps.google.com/maps/ms?msa=0&amp;msid=218409705483020318852.0004d2d08baa6531e6098&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=9.795678,-61.171875&amp;spn=103.720297,351.5625&amp;z=2&amp;source=embed\" style=\"color:#0000FF;text-align:left\">Setheo Holdings</a> in a larger map</small>";
+					var map = "<iframe width=\"100%\" height=\"350\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps/ms?msa=0&amp;msid=218409705483020318852.0004d2d08baa6531e6098&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=9.795678,-61.171875&amp;spn=103.720297,351.5625&amp;z=2&amp;output=embed\"></iframe><br /><small>View <a href=\"https://maps.google.com/maps/ms?msa=0&amp;msid=218409705483020318852.0004d2d08baa6531e6098&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=9.795678,-61.171875&amp;spn=103.720297,351.5625&amp;z=2&amp;source=embed\" style=\"color:#0000FF;text-align:left\">SETHEO Holdings</a> in a larger map</small>";
 					$("#map").html(map);
 				};
 			};

@@ -5,10 +5,10 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html class="not-ie" lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	<title>Setheo Holdings</title>
+	<title>SETHEO Holdings</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
-	<meta name="author" content="Setheo Holdings Copyright 2012">
+	<meta name="author" content="SETHEO Holdings Copyright 2012">
 
 	<?php include ("component/head.php"); ?> 
 
